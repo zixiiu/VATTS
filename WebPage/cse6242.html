@@ -48,6 +48,11 @@
             <button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'Car');"><i
                     class="far fa-grin-beam w3-margin-right"></i>Preference
             </button>
+            <button class="w3-bar-item w3-button tablink" onclick="confirmP1();"><i
+                    class="far fa-coins w3-margin-right"></i>Go To My Travel Plan!
+            </button>
+
+
         </div>
 
         <!-- Tabs -->
@@ -96,7 +101,7 @@
                         <option value="end5pm">5:00PM</option>
                         <option value="end6pm">6:00PM</option>
                         <option value="end7pm">7:00PM</option>
-                        <option value="end8pm">8:00PM</option>
+                        <option value="end8pm" selected="selected">8:00PM</option>
                     </select>
                 </div>
             </div>
@@ -147,9 +152,9 @@
                     <input class="w3-check" id="things_to_do" type="checkbox"><label>Things to do in New
                     Yorks&nbsp;<img src="things-to-do-icon.png" width="25" height="25"></label></div>
                 <div>&nbsp;</br></div>
-                <button class="w3-bar-item w3-button w3-red tablink" onclick="confirmP1()"><i
-                        class="far fa-map w3-margin-right"></i>Go To Travel Plan
-                </button>
+<!--                <button class="w3-bar-item w3-button w3-red tablink" onclick="confirmP1()"><i-->
+<!--                        class="far fa-map w3-margin-right"></i>Go To Travel Plan-->
+<!--                </button>-->
             </div>
         </div>
     </div>
@@ -225,32 +230,37 @@
         addToCheckList("shopping_mall");
         addToCheckList("zoo");
         addToCheckList("things_to_do");
+        if(ckeckTFList.length == 0){
+            window.alert("Check at least one Preference!");
+        }else if(dpAddress == '' || arrAddress == ''){
+            window.alert("Please enter the address!");
+        }else {
+            $(function () {
+                $.ajax({
+                    type: 'POST',
+                    url: pathRoot + 'Page1InputPost',
+                    data: JSON.stringify({
+                        "startTime": startTimeValue,
+                        "endTime": endTimeValue,
+                        "departAddress": dpAddress,
+                        "arriveAddress": arrAddress,
+                        "typeCheckList": ckeckTFList
+                    }),
 
-        $(function () {
-            $.ajax({
-                type: 'POST',
-                url: pathRoot + 'Page1InputPost',
-                data: JSON.stringify({
-                    "startTime": startTimeValue,
-                    "endTime": endTimeValue,
-                    "departAddress": dpAddress,
-                    "arriveAddress": arrAddress,
-                    "typeCheckList": ckeckTFList
-                }),
+                    contentType: 'application/json',
+                    success: function (response) {
 
-                contentType: 'application/json',
-                success: function (response) {
-
-                    if (response.redirect) {
-                        window.location.href = response.redirect;
-                        console.log(response)
+                        if (response.redirect) {
+                            window.location.href = response.redirect;
+                            console.log(response)
+                        }
+                    },
+                    error: function (XMLHttpRequest, textStatus, errorThrown) {
+                        alert(errorThrown);
                     }
-                },
-                error: function (XMLHttpRequest, textStatus, errorThrown) {
-                    alert(errorThrown);
-                }
+                });
             });
-        });
+        }
 
     };
 

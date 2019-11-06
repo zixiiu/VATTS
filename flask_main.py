@@ -3,8 +3,15 @@ from flask import render_template, url_for, request, redirect, jsonify
 import connections
 import timetable
 import json
-
-
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
+from flask import Flask
+app = Flask(__name__)
+limiter = Limiter(
+    app,
+    key_func=get_remote_address,
+    default_limits=["200 per day", "50 per hour"]
+)
 
 @app.route('/')
 def index(name = None):
