@@ -1,0 +1,2 @@
+,attraction__id,attraction__name,attraction__formatted__address,attraction__location__lat,attraction__location__lng,attraction__opening__hours,attraction__rating,results__type
+0,8d6c14b576144c082256cf33bcef201794d5fd78,New York Aquarium,"602 Surf Ave, Brooklyn, NY 11224, USA",40.574263200000004,-73.9748754,False,4.0,aquarium

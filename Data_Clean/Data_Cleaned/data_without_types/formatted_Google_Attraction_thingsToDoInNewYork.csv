@@ -1,0 +1,61 @@
+,formatted_address,formatted_phone_number,lat,lng,name,place_id,rating
+0,"New York, NY 10011, USA",(212) 500-6035,40.7479925,-74.0047649,The High Line,ChIJ5bQPhMdZwokRkTwKhVxhP1g,4.7
+1,"30 Rockefeller Plaza, New York, NY 10112, USA",(212) 698-2000,40.759116399999996,-73.9795433,Top of the Rock,ChIJe7vKMf9YwokRIMYfDz7iF9o,4.7
+2,"200 Park Ave 19th Floor, New York, NY 10166, USA",(646) 265-2452,40.7534339,-73.9766921,Things To Do In New York,ChIJBw12GwJZwokRCoPEwRCi3G0,3.5
+3,"New York, NY 10004, USA",(212) 363-3200,40.6892494,-74.04450039999999,Statue of Liberty National Monument,ChIJPTacEpBQwokRKwIlDXelxkA,4.6
+4,"285 Fulton St, New York, NY 10006, USA",(844) 696-1776,40.7133444,-74.0133677,One World Observatory,ChIJTWE_0BtawokRVJNGH5RS448,4.6
+5,"180 Greenwich St, New York, NY 10007, USA",(212) 312-8800,40.7114743,-74.0134432,9/11 Memorial,ChIJRcvoOxpawokR7R4dQMXMMPQ,4.8
+6,"1000 5th Ave, New York, NY 10028, USA",(212) 535-7710,40.7794366,-73.963244,The Metropolitan Museum of Art,ChIJb8Jg9pZYwokR-qHGtvSkLzs,4.8
+7,"990 Washington Ave, Brooklyn, NY 11225, USA",(718) 623-7200,40.66941130000001,-73.96237359999999,Brooklyn Botanic Garden,ChIJwYu_aA5bwokR2lxjW-QvQlc,4.6
+8,"151 W 34th St, New York, NY 10001, USA",(800) 887-9103,40.7508054,-73.9894432,New York Explorer Pass®,ChIJs6UWAT1awokRQopDDN7vSwo,4.6
+9,"216 W 44th St, New York, NY 10036, USA",(212) 235-2016,40.757584,-73.986995,Gulliver's Gate,ChIJB3jt8VRYwokR3usmhiCep0o,4.6
+10,"Brooklyn, NY 11225, USA",(718) 965-8951,40.6602037,-73.9689558,Prospect Park,ChIJQwRohxBbwokRmHrfAMb3ixc,4.7
+11,"405 Lexington Ave, New York, NY 10174, USA",(212) 682-3070,40.7516208,-73.97550199999999,Chrysler Building,ChIJeWPFRwJZwokRGD60OOo74RU,4.6
+12,"1 E 70th St, New York, NY 10021, USA",(212) 288-0700,40.771209,-73.9673991,The Frick Collection,ChIJHRH97uxYwokR6CBeDyn1jtg,4.6
+13,"Chelsea Piers, Pier 61, New York, NY 10011, USA",(212) 727-2789,40.7479504,-74.01074349999999,Spirit of New York,ChIJ9f8YY6RZwokRkxx9usQ_vno,4.4
+14,"New York, NY 10004, USA",,40.7032775,-74.0170279,Battery Park,ChIJraKL-BJawokREpxDmF5GcL4,4.5
+15,"2300 Southern Blvd, Bronx, NY 10460, USA",(718) 367-1010,40.8505949,-73.8769982,Bronx Zoo,ChIJi9JqUYP0wokRLhCVlxy0bgU,4.5
+16,"420 W 14th St fl 2, New York, NY 10014, USA",(212) 924-1040,40.741231,-74.00670099999999,Ground Zero Museum Workshop,ChIJVdeFgMBZwokR6O7aBJFn0g4,4.5
+17,"290 Broadway, New York, NY 10007, USA",(212) 637-2019,40.7145049,-74.0043973,African Burial Ground National Historic Monument,ChIJM3a4kCFawokRDRxdeYJQgnE,4.6
+18,"10 South St, New York, NY 10004, USA",(212) 825-3054,40.6919879,-74.01599499999999,Governors Island National Monument,ChIJ2_ey6W9awokRxng4fzLDbPo,4.6
+19,"26 Wall St, New York, NY 10005, USA",(212) 825-6990,40.70739930000001,-74.0102088,Federal Hall,ChIJAaIFAxdawokR8txc3YPbD3A,4.4
+20,"234 W 42nd St, New York, NY 10036, USA",(212) 977-7732,40.756427,-73.988834,The New York Pass®,ChIJ5-oA5v9YwokRNaOTR_aua14,4.2
+21,"Chelsea Piers, Pier 61, New York, NY 10011, USA",(212) 352-1366,40.7474567,-74.00943989999999,Bateaux New York,ChIJeSRQJLtZwokRX_b4Us3l72c,4.5
+22,"New York, NY 10012, USA",(212) 639-9675,40.73082279999999,-73.997332,Washington Square Park,ChIJjX494pBZwokRGH620d9eYfo,4.6
+23,"99 Margaret Corbin Dr, New York, NY 10040, USA",(212) 923-3700,40.86486279999999,-73.9317274,The Met Cloisters,ChIJK6bycAH0wokRrSnflfrnkZE,4.7
+24,"334 Furman St, Brooklyn, NY 11201, USA",(718) 222-9939,40.6995399,-73.9973777,Brooklyn Bridge Park,ChIJjaFpo0ZawokRBcOFUZ13CaE,4.7
+25,"33 E 17th St, New York, NY 10003, USA",(917) 338-6720,40.7372373,-73.9893388,Take Me Out NYC,ChIJKRYZJ4hYwokRN3UH2hMcVQ4,4.5
+26,"278 Spring St, New York, NY 10013, USA",(212) 691-1303,40.7255619,-74.006935,New York City Fire Museum,ChIJsblxMfNZwokRBLOhQZRjwtE,4.4
+27,"103 W 55th St, New York, NY 10019, USA",(212) 977-4813,40.763342,-73.9783013,Manhattan Skyline,ChIJbRAuwPlYwokR829KR7QQLVI,4.6
+28,"Riverside, Dr To Broadway, New York, NY 10040, USA",(212) 795-1388,40.8625608,-73.9312995,Fort Tryon Park,ChIJTZ18cAH0wokR1HfVR86mzEA,4.7
+29,"11 Madison Ave, New York, NY 10010, USA",(212) 520-7600,40.7420371,-73.9875635,Madison Square Park,ChIJp32RvaZZwokRfH0Zgzl9mXk,4.6
+30,"103 Orchard St, New York, NY 10002, USA",(212) 982-8420,40.7187958,-73.99006969999999,Tenement Museum,ChIJ20bVJYdZwokRhI7esP3mYM0,4.6
+31,"36-01 35th Ave, Astoria, NY 11106, USA",(718) 777-6800,40.7563454,-73.9239496,Museum of the Moving Image,ChIJAx_yUCVfwokRQ2xEBIWV21g,4.6
+32,"Pier 81 W 41st St, New York, NY 10036, USA",(212) 630-8100,40.76175129999999,-74.0024155,World Yacht,ChIJczFOwKpZwokR_ZP4uFRPmSQ,4.5
+33,"Washington Square North, 5th Ave, New York, NY 10003, USA",(844) 245-8874,40.731242,-73.997147,New York Ghost Walk,ChIJmxyg3ZBZwokR1nlwFk2013M,4.5
+34,"500 25th St, Brooklyn, NY 11232, USA",(718) 768-7300,40.65807789999999,-73.9948493,Green-Wood Cemetery,ChIJ5wpCzsJawokRZ_zEIYKrf60,4.6
+35,"New York, NY, USA",(212) 870-3070,40.80123390000001,-73.9723096,Riverside Park,ChIJL1DP2C72wokRh3Lfn4T0Z3w,4.6
+36,"Queens, NY, USA",(718) 760-6565,40.73971359999999,-73.840785,Flushing Meadows Corona Park,ChIJ-2Yhwn9gwokR4Wwy6GgsPRM,4.5
+37,"1071 5th Ave, New York, NY 10128, USA",(212) 423-3500,40.7829796,-73.9589706,Solomon R. Guggenheim Museum,ChIJmZ5emqJYwokRuDz79o0coAQ,4.3
+38,"1 FDR Four Freedoms Park, Roosevelt Island, NY 10044, USA",(212) 204-8831,40.75080759999999,-73.9604123,Franklin D. Roosevelt Four Freedoms Park,ChIJRUgJkx9ZwokR6W8mnGZVcl0,4.6
+39,"20 Waterside Plaza, New York, NY 10010, USA",,40.73734489999999,-73.9739237,Club Free Time,ChIJ0fr6tg1ZwokRCo2-vKoTUT8,3.6
+40,"5th Ave, New York, NY 10022, USA",(212) 753-2261,40.7584653,-73.97599269999999,St. Patrick's Cathedral,ChIJUW4vEPxYwokRW6o24DU0YIg,4.8
+41,"20 W 34th St, New York, NY 10001, USA",(212) 736-3100,40.7484405,-73.98566439999999,Empire State Building,ChIJaXQRs6lZwokRY6EFpJnhNNE,4.6
+42,"Central Park West & 79th St, New York, NY 10024, USA",(212) 769-5100,40.78132409999999,-73.9739882,American Museum of Natural History,ChIJCXoPsPRYwokRsV1MYnKBfaI,4.6
+43,"2900 Southern Blvd, Bronx, NY 10458, USA",(718) 817-8700,40.8623935,-73.8772467,New York Botanical Garden,ChIJyRUHuHzzwokRPxVBNKhcP9c,4.7
+44,"Brooklyn Bridge, New York, NY 10038, USA",,40.7060855,-73.9968643,Brooklyn Bridge,ChIJK3vOQyNawokRXEa9errdJiU,4.7
+45,"New York, NY 10006, USA",,40.70926489999999,-74.011262,Zuccotti Park,ChIJd_J7XBdawokRpAdtBwzIx0s,4.3
+46,"79 Leonard St, New York, NY 10013, USA",(917) 259-1027,40.7175412,-74.0049021,Escape Games NYC - Escape Room,ChIJhSrwaiBawokRbZtFPKj9Mpc,4.8
+47,"265 W 37th St Suite 802A, New York, NY 10018, USA",(347) 903-8860,40.75427099999999,-73.99158899999999,Escape Room NYC - Mission Escape Game,ChIJnc6m4ydawokRUi0a-XyHfv0,4.8
+48,"1802 65th St Transverse, New York, NY 10065, USA",(212) 439-6900,40.7699237,-73.9752391,Central Park Carousel,ChIJ43Mlx_NYwokR4bkDRJ0fE2M,4.2
+49,"3059 W 12th St, Brooklyn, NY 11224, USA",(718) 372-2592,40.57433839999999,-73.9781885,Deno's Wonder Wheel Amusement Park,ChIJq2dBUzREwokRugdGFafrtIw,4.4
+50,"234 W 42nd St, New York, NY 10036, USA",(212) 512-9600,40.7564269,-73.9888338,Madame Tussauds,ChIJ8VOfr1RYwokRhil9_pcMKuc,4.3
+51,"99 Schermerhorn St, Brooklyn, NY 11201, USA",(718) 694-1600,40.69046629999999,-73.9899714,New York Transit Museum,ChIJdThqNVVawokRFk58UQOvtuM,4.6
+52,"99 Gansevoort St, New York, NY 10014, USA",(212) 570-3600,40.73958770000001,-74.0088629,Whitney Museum of American Art,ChIJN3MJ6pRYwokRiXg91flSP8Y,4.5
+53,"New York, NY, USA",(212) 310-6600,40.7828647,-73.9653551,Central Park,ChIJ4zGFAZpYwokRGUGph3Mf37k,4.8
+54,"402 5th Ave, New York, NY 10029, USA",(212) 310-6600,40.7937474,-73.9524239,Conservatory Garden,ChIJh70nPBz2wokR7EWPEdNPP9s,4.7
+55,"177 Prince St, New York, NY 10012, USA",(212) 274-8757,40.726449,-74.001798,The Museum of Interesting Things Secret Speakeasy,ChIJmYlexo1ZwokR1dEp7vEvIYM,4.4
+56,"Pier 86, W 46th St, New York, NY 10036, USA",(212) 245-0072,40.764526599999996,-73.99960759999999,"Intrepid Sea, Air & Space Museum",ChIJnxlg1U5YwokR8T90UrZiIwI,4.6
+57,"709 Lorimer St, Brooklyn, NY 11211, USA",(718) 302-3770,40.718099,-73.950193,Pete's Candy Store,ChIJ5dUgV1pZwokRaUaTcwzM2eA,4.5
+58,"Old Dock St, Brooklyn, NY 11201, USA",(718) 222-2502,40.7044297,-73.99238629999999,Jane's Carousel,ChIJU9mVHzFawokRcNNO_Su8zGM,4.6
+59,"73-50 Little Neck Pkwy, Queens, NY 11004, USA",(718) 347-3276,40.74813779999999,-73.72104279999999,Queens County Farm Museum,ChIJ97dFr3JiwokRbeAyMsBwcnA,4.4

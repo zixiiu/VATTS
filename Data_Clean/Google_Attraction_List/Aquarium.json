@@ -1,0 +1,49 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "602 Surf Ave, Brooklyn, NY 11224, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5742632,
+               "lng" : -73.9748754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.57560817989272,
+                  "lng" : -73.97412062010727
+               },
+               "southwest" : {
+                  "lat" : 40.57290852010728,
+                  "lng" : -73.97682027989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d6c14b576144c082256cf33bcef201794d5fd78",
+         "name" : "New York Aquarium",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112385749461986717978/photos\"\u003eDaniel Alexander Catano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnnfrYcMq9BxFGxlAAgpo9TU5Oo4fY-8KucP1kjBU7i-R8HCcknMKjnzGuo9t9YGhhvz0wqL83TYrP4hc9YOHMK_AlL3-QlVweGgG0u3QuR3xCN8-TnFjgwCv3by-5qu3EhA7KTXPHOTpZDcahQw_lHsmGhQnpSsu0b_l4p1S5pXXP-n9ugW8NQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJcRMeDzZEwokR3NsXUDpO9UU",
+         "plus_code" : {
+            "compound_code" : "H2FG+P2 New York",
+            "global_code" : "87G8H2FG+P2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJcRMeDzZEwokR3NsXUDpO9UU",
+         "types" : [ "aquarium", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

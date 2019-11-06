@@ -1,0 +1,304 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "New York, NY 10019, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76777939999999,
+               "lng" : -73.97446630000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76929422989272,
+                  "lng" : -73.97333372010728
+               },
+               "southwest" : {
+                  "lat" : 40.76659457010728,
+                  "lng" : -73.97603337989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3a87c22d2097ff671c680532bcf99d5665c2f79d",
+         "name" : "Victorian Gardens Amusement Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106131620467738463962/photos\"\u003eRune Skogsrud\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARyDYhpr-6ELMDsB4WG0PzDyUfwAGNTze96pjEaGfi4HKc95aRISEqF_Kw2wx4R4BN49xyiGV162Bc2ojlxUqKToIyR_VrFJktWGPJL9Q7zMyJeNPZqvRSxbFq1DU3w8vEhD8oGtIAVH_Zx0zZjj69P4sGhRlR18JPzfd4z5iEu_VaxxJumF9OQ",
+               "width" : 4912
+            }
+         ],
+         "place_id" : "ChIJbcr95-1YwokRuBMO1wMVL50",
+         "plus_code" : {
+            "compound_code" : "Q29G+46 New York",
+            "global_code" : "87G8Q29G+46"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJbcr95-1YwokRuBMO1wMVL50",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3059 W 12th St, Brooklyn, NY 11224, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.57433839999999,
+               "lng" : -73.9781885
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.57570452989273,
+                  "lng" : -73.97745145
+               },
+               "southwest" : {
+                  "lat" : 40.57300487010728,
+                  "lng" : -73.98039965000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "90b19ff46230858b415a48c4511e17c216d0caf5",
+         "name" : "Deno's Wonder Wheel Amusement Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111171754225584116657/photos\"\u003eMarvin Homburg\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAO4zU3Cqp1yY1_VUKnDF7HDkSniKVegykePXy0cruZi11VEsVxo9g2kXutvIxYTuwZfYqo7MEKmSE-h5JouHOpjrU3dOqNyf-j3pofeXxs3VL4ASfr6jIrWnX9wMCv_dbEhDtqxDA05vt19AEglwpRFoZGhQoj_ihQx84aS_jAncVcE5OiRJXVA",
+               "width" : 1009
+            }
+         ],
+         "place_id" : "ChIJq2dBUzREwokRugdGFafrtIw",
+         "plus_code" : {
+            "compound_code" : "H2FC+PP New York",
+            "global_code" : "87G8H2FC+PP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJq2dBUzREwokRugdGFafrtIw",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "111th St and 55th Ave, Corona, NY 11368, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7432968,
+               "lng" : -73.8492784
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74444442989272,
+                  "lng" : -73.84859032010728
+               },
+               "southwest" : {
+                  "lat" : 40.74174477010727,
+                  "lng" : -73.85128997989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "eaa944e92c221b8e6a423b6173fbe59cbedf72ea",
+         "name" : "Flushing Meadows Carousel",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113479694798313988314/photos\"\u003ePatrick Hill\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI5sPFI-iyHKNpicI967_UCey_frmbbVCl8ELOW7D9VGhPxxRpeVA_FliEXxo5I3msV0yNDEvV5IZLtFsN99C-1Ft3vRA3jDy7QcV23H_7lFfobeLmLZ539hRc4boEZvrEhAjZEQamIoQmfRlkQLdbNzuGhSjxXMMHgkF_nEkPSYhaT0cOV0Ccg",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJmbUpINFfwokRIg4fft6_jqI",
+         "plus_code" : {
+            "compound_code" : "P5V2+87 New York",
+            "global_code" : "87G8P5V2+87"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJmbUpINFfwokRIg4fft6_jqI",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5351 111th St, Corona, NY 11368, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74366,
+               "lng" : -73.849958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74498742989272,
+                  "lng" : -73.84912657010727
+               },
+               "southwest" : {
+                  "lat" : 40.74228777010727,
+                  "lng" : -73.85182622989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f7c2c1dd5e8a13c2d2d4ca828d0f565bba33f212",
+         "name" : "Fantasy Forest Amusement Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110396274497834667089/photos\"\u003eFantasy Forest\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5UEWKqR3njLL65g98pc2QN9mseNYPZbrRiJ7B4SWN1zXQRrFwwXVz3x8awAhlgA8tgRs-AxFUeVgVHXA2Klw1rfL94NLnVbo2wwlKIeUPj2zvhNhPnetcBf8qOZuETWVEhAYUcmLyq1iF2CrYMe2bt5wGhSfZ3M09Rg5-aBIFKzc0j0HqjJ0Lw",
+               "width" : 4512
+            }
+         ],
+         "place_id" : "ChIJMU3Q4tBfwokRhVWJiwGK_Yw",
+         "plus_code" : {
+            "compound_code" : "P5V2+F2 New York",
+            "global_code" : "87G8P5V2+F2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJMU3Q4tBfwokRhVWJiwGK_Yw",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1000 Surf Ave, Brooklyn, NY 11224, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5745232,
+               "lng" : -73.97761079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.57631422989272,
+                  "lng" : -73.97619552010727
+               },
+               "southwest" : {
+                  "lat" : 40.57361457010728,
+                  "lng" : -73.97889517989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b7af42fe75abcc334b98175ee7312163a8091999",
+         "name" : "The Cyclone Roller Coaster Coney Island NY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106104148727045573731/photos\"\u003ekevin dallos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArVXgOFOVgKLmfjzuKWDYImuzax5CE-5NVW_abYbpQjcpM6gLgqvB7ackQQkN6fbCyQxK5BsFht43bFzdgFqZA-WiGI6_1JpIlTjcaDn7KMJJJvwRquitWChRXF-dqcaxEhAJsLCVqCoda28dDY9dS9n9GhSuBuQRknsvBC2DCrLywtH1xSKf3g",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJa2SY6zVEwokRqbYGuCny2So",
+         "plus_code" : {
+            "compound_code" : "H2FC+RX New York",
+            "global_code" : "87G8H2FC+RX"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJa2SY6zVEwokRqbYGuCny2So",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1295 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.573933,
+               "lng" : -73.9803675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.57488067989272,
+                  "lng" : -73.97893182010728
+               },
+               "southwest" : {
+                  "lat" : 40.57218102010727,
+                  "lng" : -73.98163147989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bc829576e14c8b42074bd5199bc1a56a5cd38384",
+         "name" : "Scream Zone at Luna Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109653710681266554266/photos\"\u003evictor S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZuLswNQRXWyYJ1pXwMCwTRUEr51UX-aYewh-EMYaQtrL-VPwTyLlvoafNsYEyiMOCXAhDPwydXcpW1r8jNwq2fWdFMj_pzF3Amds_4AY0LzGSG0v_ur-xFm-sYacNpozEhBcW0yyh3cPAH2HRW3jfa-JGhQllH6LHXEFPcWAawoCrwRINsD41g",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJX-Ps_jREwokRiOsrB0JnZTM",
+         "plus_code" : {
+            "compound_code" : "H2F9+HV New York",
+            "global_code" : "87G8H2F9+HV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJX-Ps_jREwokRiOsrB0JnZTM",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1824 Shore Pkwy, Brooklyn, NY 11214, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5906694,
+               "lng" : -73.99469409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.59213542989272,
+                  "lng" : -73.99308092010726
+               },
+               "southwest" : {
+                  "lat" : 40.58943577010728,
+                  "lng" : -73.99578057989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1399b4a298f5376d6639f7a7250f847b22aa7c81",
+         "name" : "Adventurers Amusement Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100792148225701333848/photos\"\u003eIvane J\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4n9jpgQE-d6rsexNb59Xe7KDebg-ag0djVCYGN_3QjDjiq7shVKxEaXKZ4QTUia71ZBXtsJP0Yxqw2wzHH2iUK3KsW2RsIy143le5h3k1gNNpBtcHeBJ8sP52XY5PiTgEhD88jQn-BW7Y7AjdAiaznxkGhSIUtsPVC65y11ePIvXW5KkhtDubQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJsag5fa9FwokRZXAM9oijWfc",
+         "plus_code" : {
+            "compound_code" : "H2R4+74 New York",
+            "global_code" : "87G8H2R4+74"
+         },
+         "rating" : 4,
+         "reference" : "ChIJsag5fa9FwokRZXAM9oijWfc",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

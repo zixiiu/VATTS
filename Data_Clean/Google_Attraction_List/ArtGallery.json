@@ -1,0 +1,1209 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "32 E 57th St, New York, NY 10022, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.761862,
+               "lng" : -73.972082
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76333267989272,
+                  "lng" : -73.97064322010729
+               },
+               "southwest" : {
+                  "lat" : 40.76063302010728,
+                  "lng" : -73.97334287989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a79a4a8c0af1fdc350f8a79eb4955d65576ac0f3",
+         "name" : "Pace Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108837311834349986396/photos\"\u003eAlexander Duke\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAcMNo5lqwm9NNf5n8MwXvvxq6gwGB9Mm_VG0KaVTLi_FGwUoFKF_BW8XCv6PBkKh_mBjQW_Z1Hv6D8T0uJiTWBPaEfpFerE2JT_p8nKhoAKUa-iGYJ9pR9Alm6xVbXohVEhAf9yMoNHbeKCWUsh7B9MspGhQwqUaLht_P8VdoD6dm5sqLXgL7hA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJFxXcxfpYwokR4SxqEQVpaLk",
+         "plus_code" : {
+            "compound_code" : "Q26H+P5 New York",
+            "global_code" : "87G8Q26H+P5"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJFxXcxfpYwokR4SxqEQVpaLk",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "531 W 24th St, New York, NY 10011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7492057,
+               "lng" : -74.0049504
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75043562989271,
+                  "lng" : -74.00368927010727
+               },
+               "southwest" : {
+                  "lat" : 40.74773597010727,
+                  "lng" : -74.00638892989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "27cb29e2c5bf3849cbfd0e1cdcdeeefcfbe6986b",
+         "name" : "Luhring Augustine Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109608129882064838019/photos\"\u003eChris Welty\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADNisRtch81tT-GfYemn7VJ2zPCuLGgKbU6DypwR0o8hNVVMZFLHU6RwZFXdOBbxeVPdHDcKJ5hDQXSo15YA1YYrNAqBMJaN4OyP2eFGktCPCHLbNaOYRCHqpubErRBVrEhBg90UVvkaIG1PYJ27cfhAQGhTS-0JSisQy0KbOSDN9pSPxe7mdZQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJwZCT7bdZwokRNx1YURTRbmM",
+         "plus_code" : {
+            "compound_code" : "PXXW+M2 New York",
+            "global_code" : "87G7PXXW+M2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJwZCT7bdZwokRNx1YURTRbmM",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1000 5th Ave, New York, NY 10028, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7794366,
+               "lng" : -73.963244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.78025357989272,
+                  "lng" : -73.96137637010729
+               },
+               "southwest" : {
+                  "lat" : 40.77755392010728,
+                  "lng" : -73.96407602989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f732f202150af1f14ae8a057a1014ceea6b33fc4",
+         "name" : "The Metropolitan Museum of Art",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1361,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104310127545801734343/photos\"\u003eSoo Bin Yeo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATuGS8ym5Jlcd23jIoBsHaVSSydNR1ACxZari6Eqs6qQAOPMg4WlSA5pR1osowUE4_Q7_WmYfd5GC5xY-6HHehn0MuqyYli4tuzK6OjjHxT1nmdlOF00I2jedzvNRXdRdEhAd3XyHHxia7AoLxMRioUojGhQPAI3APZG53TD3kRhX2YHgZjvPOQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJb8Jg9pZYwokR-qHGtvSkLzs",
+         "plus_code" : {
+            "compound_code" : "Q2HP+QP New York",
+            "global_code" : "87G8Q2HP+QP"
+         },
+         "price_level" : 3,
+         "rating" : 4.8,
+         "reference" : "ChIJb8Jg9pZYwokR-qHGtvSkLzs",
+         "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "525 W 22nd St, New York, NY 10011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74761489999999,
+               "lng" : -74.0057547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74891362989272,
+                  "lng" : -74.00444212010727
+               },
+               "southwest" : {
+                  "lat" : 40.74621397010728,
+                  "lng" : -74.00714177989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "73ea6246f9076b48c53ed7b69000806e769dac9b",
+         "name" : "Yancey Richardson",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110538471336381659947/photos\"\u003eYancey Richardson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6RDK3njJTEOhWyPJ0EuqXs5HD_t7edONLRvVgQcjygUDsA484O1sZV8Onb0Tq3Vusbmo7tdGZKopJJG55LHTjPMi_k1Ho_WXQ0gsS2TQkcsBlDJhpQlIikW4tCd2Y5HEEhBf2ozKuE8tX7C7uXS0EP4fGhTVWppZgFl5wfpU-hSZFxz9hRLIFw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJe7AGCbhZwokRAFtmSbxzArY",
+         "plus_code" : {
+            "compound_code" : "PXXV+2M New York",
+            "global_code" : "87G7PXXV+2M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJe7AGCbhZwokRAFtmSbxzArY",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "18 Wooster St, New York, NY 10013, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721435,
+               "lng" : -74.003056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72285302989272,
+                  "lng" : -74.00184752010728
+               },
+               "southwest" : {
+                  "lat" : 40.72015337010728,
+                  "lng" : -74.00454717989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cbefae89e281127361feb41c454b78b564f7c306",
+         "name" : "Jeffrey Deitch",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108210038404477618214/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALo2iQcz7dLWzffp5iR7YRL9MwlPDs6B7Vv6FPEa4KaRfFOa4-ZFOGp8Xk-H-_xu2CiQbA1zF4MFsuUmbbVJzOIS_-7EpU-Ukuhf0GQZKXRKIvWwDfKVav3nNalSySkD9EhBUSbU9zGssW4bEpVtKPjQNGhTRYM7ZHMjObvEidR53n5oRrenJdQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJdWA_r4tZwokRPgHkRNHAKog",
+         "plus_code" : {
+            "compound_code" : "PXCW+HQ New York",
+            "global_code" : "87G7PXCW+HQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJdWA_r4tZwokRPgHkRNHAKog",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "291 Grand St, New York, NY 10002, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7174334,
+               "lng" : -73.99217299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71887577989273,
+                  "lng" : -73.99077482010728
+               },
+               "southwest" : {
+                  "lat" : 40.71617612010728,
+                  "lng" : -73.99347447989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f3dd21a471de3196c01a6de89100f83fcee5ecb5",
+         "name" : "Gavin Brown's enterprise",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102214210824979797765/photos\"\u003eGavin Brown&#39;s enterprise\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAidz7sCLies_PrKfx1RW3bQJGRFZH5UqMox09DG7kdIpX8Audohvra_39Et7cr_1dZp5o1Mr8mOZplBcPI9yqGj0HSBd46o4X99h0cpeMgxbjmzY_VGy3Pf_4AfhJ5YsLEhBuaLuQmC83YwFrwdrEdLkFGhQ_M0uTZjPLVROyapegg8CjSLcG-A",
+               "width" : 3600
+            }
+         ],
+         "place_id" : "ChIJmZBlFO1ZwokRhPKLlzK7pzc",
+         "plus_code" : {
+            "compound_code" : "P285+X4 New York",
+            "global_code" : "87G8P285+X4"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJmZBlFO1ZwokRhPKLlzK7pzc",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2 Lincoln Square, New York, NY 10023, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773207,
+               "lng" : -73.98138999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77463502989272,
+                  "lng" : -73.98022482010727
+               },
+               "southwest" : {
+                  "lat" : 40.77193537010727,
+                  "lng" : -73.98292447989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "a9ffefef860f76e7fe7abc01b3ca90a35e06afba",
+         "name" : "American Folk Art Museum",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118167159210472688737/photos\"\u003eMarco Togni\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoUejZioNJjHIXINCd91ZJYkLpp7rxq6_JOBuDqQI7D94JEg0eRViBBmKGoHeUl6x8d2A2TAEPpjZtWRYFbkqC6l63cmSlHX-skNpg-6MzBqeldkYqm2DQFtiVWy0q7fFEhBlziczesIciMbB-FsYuamOGhSRL9Ji-kOoyoCwFhSl3qm50JeEXA",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJEeD6FPVYwokRgs0ZbWMrrzk",
+         "plus_code" : {
+            "compound_code" : "Q2F9+7C New York",
+            "global_code" : "87G8Q2F9+7C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJEeD6FPVYwokRgs0ZbWMrrzk",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "83 Grand St, New York, NY 10013, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7216802,
+               "lng" : -74.00255869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72306987989272,
+                  "lng" : -74.00117537010728
+               },
+               "southwest" : {
+                  "lat" : 40.72037022010728,
+                  "lng" : -74.00387502989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "18df8cdf1e4fc7ae191a547ff3a5104c53c353e0",
+         "name" : "Team Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111658369223057504514/photos\"\u003eDavid Silver\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdiwQOUO1ggREcBjs22olxJ8CWHbJ2hIcU9UGNxdCEDk311BD8oXj-XNJ1tjdm3uDyjLxkhk_xhlFuFi930F178s137mZ7yv3k8RClV1N7PfGvCZz2wb04TAzsdKYsKEGEhBFAmHSFjWCWwTMfJpNWX10GhSOSvYgAHeTxhN4fKi9sU3oOiGw6Q",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJK4dVuYtZwokRcYLi85TNuaM",
+         "plus_code" : {
+            "compound_code" : "PXCW+MX New York",
+            "global_code" : "87G7PXCW+MX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJK4dVuYtZwokRcYLi85TNuaM",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "4 E 77th St # 2, New York, NY 10075, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.775242,
+               "lng" : -73.964254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77669277989272,
+                  "lng" : -73.96282937010727
+               },
+               "southwest" : {
+                  "lat" : 40.77399312010728,
+                  "lng" : -73.96552902989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cd2ae0adb281438c0ca24769d1f6f7d8d42b379a",
+         "name" : "Michael Werner Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117661874226484976732/photos\"\u003e中村文則\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAor4eb6Vf8F3uvDMbVRSeWrc1XUFtTDnnMQfHgPXFIKsOkQDP_aqONPmePOPIalHjbgl5Ou2abcwfJTr4YeBTqAYhSRHoFcI4pHO5YKGQxL_9PvwhzFzMen7A0BphRMb1EhCu-HcoryvHVNikMjJZLSjHGhSOorzYOhjEHHzDhF2xdS1T6M0I9Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJX4_LaJRYwokRFRY0gPRav3I",
+         "plus_code" : {
+            "compound_code" : "Q2GP+37 New York",
+            "global_code" : "87G8Q2GP+37"
+         },
+         "rating" : 5,
+         "reference" : "ChIJX4_LaJRYwokRFRY0gPRav3I",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "475 10th Ave, New York, NY 10018, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7560796,
+               "lng" : -73.9982615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75739692989272,
+                  "lng" : -73.99683372010728
+               },
+               "southwest" : {
+                  "lat" : 40.75469727010728,
+                  "lng" : -73.99953337989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "eba3c1484e314612781eae06254065e014385b6d",
+         "name" : "Sean Kelly",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1666,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107874565596360750472/photos\"\u003eSean Kelly\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA11_FM4xfJ1mtC8-2Tq8L8ZPJWxSya34CAIFKGm0IXKgN_mQx5SC8mAmXABGpsN2adzqp6oacPW_n-hJzRXOLAh-TPCLq3vpKc1YitD1kRy_dJdLiI6-YPJouwMbuG740EhCsu4GgwIFfIZMEUxtAIE80GhQWe4_P3QjXKxxURvdNWehdIw-DoQ",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJWTV4jrZZwokRFYejsehrXyY",
+         "plus_code" : {
+            "compound_code" : "Q242+CM New York",
+            "global_code" : "87G8Q242+CM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJWTV4jrZZwokRFYejsehrXyY",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "152 E 65th St, New York, NY 10065, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7654055,
+               "lng" : -73.9645412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76683052989272,
+                  "lng" : -73.96313577010729
+               },
+               "southwest" : {
+                  "lat" : 40.76413087010728,
+                  "lng" : -73.96583542989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c5ab0aca297a7805d83a3d683e1e0f0d4ed7d2a6",
+         "name" : "Anita Shapolsky Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113723138980371140743/photos\"\u003eErnesto Gomez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj6iz8ahe3pzRWo3uqJUIqboDby2XxYdaoqkojMJmAA-JihHL6eOXmKUjGGD2AaTccGw6pS9_8-Y7tw23XvMTyvXEowTMw-iFBTAQgt5PIJXt3sC233QxdgkQVCmq3tXoEhAtgEoXDiKzFDeDfWl0js9QGhQ6R6yBmDgj50QSX6LI3xlAnE9rGA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJXbDLOulYwokRSlIu2m790r8",
+         "plus_code" : {
+            "compound_code" : "Q28P+55 New York",
+            "global_code" : "87G8Q28P+55"
+         },
+         "rating" : 4,
+         "reference" : "ChIJXbDLOulYwokRSlIu2m790r8",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "80 White St, New York, NY 10013, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7178421,
+               "lng" : -74.0020559
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71908962989272,
+                  "lng" : -74.00079672010727
+               },
+               "southwest" : {
+                  "lat" : 40.71638997010728,
+                  "lng" : -74.00349637989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "29ea02dc3c3b0697c11cf0454b2a0c4cc57a0665",
+         "name" : "Artists Space",
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103172109829683219764/photos\"\u003eArtists Space\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFgiEqqDgVgRbmPPLO22YqRA8YeCpEsxqZ3mLlvRWtDLfQPGVO-Rn6W4lbRGVmVYhOqjHAH10YBT71K07Picaw8D27ABKXV6gyCMZ5vcVP-83FjFCNg11M1eqozHb_gBkEhCl3HMXz_rn9LBgF97Hf33XGhTyTtIS4E45Unp_yZO0Pgd78DMLVQ",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJ0ZCpuItZwokRZoTuCB9Vjtg",
+         "plus_code" : {
+            "compound_code" : "PX9X+45 New York",
+            "global_code" : "87G7PX9X+45"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ0ZCpuItZwokRZoTuCB9Vjtg",
+         "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "210 11th Ave Suite 801, New York, NY 10001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7499366,
+               "lng" : -74.005949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75135022989272,
+                  "lng" : -74.00472522010728
+               },
+               "southwest" : {
+                  "lat" : 40.74865057010727,
+                  "lng" : -74.00742487989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "db7cfaed8cf759767a774bb57080391e0d473925",
+         "name" : "Fischbach Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 361,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102425576428677011181/photos\"\u003eFischbach Gallery .\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP9tAL1MSg9aRD0nkfTIcPkhOHnuHHWjfrBAQn9Io1XdSjc2h95XyEPAHzZnWA2-4ACs1irBUH1GnA0TEXgfT4fCRXYecfbKIwfYIgoQOsaCky9gNfKknNdwvXnHqNww4EhDMlNS36xJtzw6P3srQvUYKGhT8ZMAGeShncDXKkF3Ldeci-JMqdQ",
+               "width" : 562
+            }
+         ],
+         "place_id" : "ChIJsy_13LdZwokRIOr9lBXLY9Y",
+         "plus_code" : {
+            "compound_code" : "PXXV+XJ New York",
+            "global_code" : "87G7PXXV+XJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJsy_13LdZwokRIOr9lBXLY9Y",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "257 Bowery, New York, NY 10002, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72314799999999,
+               "lng" : -73.992583
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72452862989272,
+                  "lng" : -73.99137322010728
+               },
+               "southwest" : {
+                  "lat" : 40.72182897010727,
+                  "lng" : -73.99407287989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "997b4e445d2a09aa4a0db068f862ae40e0fa282e",
+         "name" : "Sperone Westwater",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116707993342200424883/photos\"\u003eMary Jones\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbnpSjFoWxBiMMVwtzDens7Hzo3-VQCePKin481CHv35OmEj7GewDRvly9NTHXAOaqA6_kR-eWYNjebgBsLhMBBBW7nAl6KWTrZM1mGj80qS4glFwq6_kEl7eRCEDZ7ViEhD3cBRe6t8rwsGgLa5QtFLFGhQZEvYgmBMYWfOH8a9b7LR4eVS9Eg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJoW8duIVZwokRDqKRPbNOM9E",
+         "plus_code" : {
+            "compound_code" : "P2F4+7X New York",
+            "global_code" : "87G8P2F4+7X"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJoW8duIVZwokRDqKRPbNOM9E",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "100 Crosby St #305, New York, NY 10012, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7240493,
+               "lng" : -73.99776849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72523477989272,
+                  "lng" : -73.99607867010727
+               },
+               "southwest" : {
+                  "lat" : 40.72253512010727,
+                  "lng" : -73.99877832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8402f5af9d1f23f19127ce1c5ecdec632fb5e00c",
+         "name" : "Staley-Wise Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107347931991951166898/photos\"\u003eStaley-Wise Gallery\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZdNE_iasHSnnH5r-u3C6Nwlwn-ksC3lfmtY42xWQcTJT5Tb4Btf7a7d6bXy5q9KvEiVTojBWwvX8TJd2goIqVHf0X9z3hKT-o7M9mG7qkkPgzy9-mLUTdxRtU9k0hoXDEhBkPVozMeFdiCUP6uekw3muGhSfqLPS6u-cPAjvhyO2d2hau7gJLw",
+               "width" : 1540
+            }
+         ],
+         "place_id" : "ChIJcXGe4Y5ZwokRCR-Yzx1m-SE",
+         "plus_code" : {
+            "compound_code" : "P2F2+JV New York",
+            "global_code" : "87G8P2F2+JV"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJcXGe4Y5ZwokRCR-Yzx1m-SE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "521 W 21st St #1, New York, NY 10011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.747122,
+               "lng" : -74.006193
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74836967989272,
+                  "lng" : -74.00491817010729
+               },
+               "southwest" : {
+                  "lat" : 40.74567002010728,
+                  "lng" : -74.00761782989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "26386bcb104b7eb2b60c49666e72464c462a5d27",
+         "name" : "Tanya Bonakdar Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109696097640252338474/photos\"\u003eColin Williams\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-BCqRj-14XYSoPZxfAymbKUL7inf01e28YrVVn9uWwsayWId0WXsvyrIFAWUUGPRZHJOneOr6MXlC-XZvDGLh17rtV_prS1WeYtnRxUmJLdY6U5z6tT1OKZRBYo3cAWYEhAAoPK1lclmgfNGVRZ8fI63GhQfQAxYdgR5N8Kw3lBNQa0ptqieXQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJs5ukdLhZwokRR5fBgFl8K3E",
+         "plus_code" : {
+            "compound_code" : "PXWV+RG New York",
+            "global_code" : "87G7PXWV+RG"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJs5ukdLhZwokRR5fBgFl8K3E",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "434 Greenwich St, New York, NY 10013, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72271,
+               "lng" : -74.00979900000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72405357989273,
+                  "lng" : -74.00838692010727
+               },
+               "southwest" : {
+                  "lat" : 40.72135392010728,
+                  "lng" : -74.01108657989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f83fdd977b3b2ff4c88d813e216ae0e26e54e890",
+         "name" : "Art Projects International",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 798,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100876959674858048711/photos\"\u003eArt Projects International\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArDJdlRWpkb6d8Em79Tk-fGc183b8sPA67z0HKZTpBeB8qtGptC4W4j7ww-J1nkPUKXhAfzJ53LG-17D_zdYw8i9XQMZzkEzlWilG0eUNdKSbUlKeGhYyj5p2yLse8lu7EhB81ef-WQBLcJetqCca8KlsGhQSDeBnrfj03gXNY154LrVqkAFobw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJTQikV_RZwokRv1Ufiev2Eoo",
+         "plus_code" : {
+            "compound_code" : "PXFR+33 New York",
+            "global_code" : "87G7PXFR+33"
+         },
+         "rating" : 5,
+         "reference" : "ChIJTQikV_RZwokRv1Ufiev2Eoo",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "132A Eldridge St, New York, NY 10002, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7189134,
+               "lng" : -73.9914967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72027442989272,
+                  "lng" : -73.99018527010728
+               },
+               "southwest" : {
+                  "lat" : 40.71757477010728,
+                  "lng" : -73.99288492989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "99659cfe636a56c4895f11ae01ea73a5531082e4",
+         "name" : "Woodward Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 565,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115400149588303447148/photos\"\u003eKristine Woodward\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPnwIRx4CpRKqnGdwFDPDpp2zUi9JE77XMkH6SIruUY4lwXRrlXAALKilQkXRu6-pzt-UD4ukbk4wd7FCDjRxMdu6NTFATiYmgVQWyUj47g79i5otPbeT4CYJcCH_iikOEhAyC9qr1-CEFhwDjpr9RO4sGhQH_9EQT0u2QSBdS63nLRjyxOOptQ",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJQSfDAIdZwokRruYOCAMp68Q",
+         "rating" : 4.8,
+         "reference" : "ChIJQSfDAIdZwokRruYOCAMp68Q",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "108 E 16th St #301, New York, NY 10003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735522,
+               "lng" : -73.988784
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73693797989272,
+                  "lng" : -73.98738667010727
+               },
+               "southwest" : {
+                  "lat" : 40.73423832010727,
+                  "lng" : -73.99008632989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5394fa8b17ef5d9dbbe90d6d374a2dd5d1a74d94",
+         "name" : "Talwar Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112876384934775714096/photos\"\u003eWalkerfifteen NYC\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAO_Q2U64zfviEGsdgG7og-DdsPhMKbdAQWELsrFzOgIeP6fys7mldelDx-aE4TlwG47o2cOMeckucQ287ZnxZYHEwCZkKJbJjHyKo1onwsKYxRA1BE82AN67TUJbNOX1oEhCPx1svVBcTvNsAg3sURsbaGhRz-e3LLk03PuD6JyCCAE0sRIKbWA",
+               "width" : 648
+            }
+         ],
+         "place_id" : "ChIJxROQUp9ZwokRHREc95HPxiM",
+         "plus_code" : {
+            "compound_code" : "P2P6+6F New York",
+            "global_code" : "87G8P2P6+6F"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJxROQUp9ZwokRHREc95HPxiM",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "519 W 24th St, New York, NY 10011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7489171,
+               "lng" : -74.0045717
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75019567989272,
+                  "lng" : -74.00327457010728
+               },
+               "southwest" : {
+                  "lat" : 40.74749602010728,
+                  "lng" : -74.00597422989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "83eae3a6ddc753d6095a1e07e5fb27ea6421b555",
+         "name" : "Metro Pictures",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117661874226484976732/photos\"\u003e中村文則\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKzGcXWExgkm1dALC0rOoTYoZSXbWER4rsL-ldWsywDWsfsY5hegeskqsjPIhF7O_Z0dI6HY0XW7m1eEV7wAloyNTUdpDd9Ao4kGR_NN9XD1TxnIBVXKBuxfCDZ8_XYHUEhArhtHhmUc_EeZx8AIgwbfnGhTTpUfV1IuCduMbBsZVW1BN353ypA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ2cJojbdZwokRJF3KrrBFnF0",
+         "plus_code" : {
+            "compound_code" : "PXXW+H5 New York",
+            "global_code" : "87G7PXXW+H5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ2cJojbdZwokRJF3KrrBFnF0",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+      },
+      {
+        "formatted_address" : "121 W 27th St, New York, NY 10001, USA",
+        "geometry" : {
+           "location" : {
+              "lat" : 40.7461073,
+              "lng" : -73.99199569999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 40.74736057989272,
+                 "lng" : -73.99071687010728
+              },
+              "southwest" : {
+                 "lat" : 40.74466092010728,
+                 "lng" : -73.99341652989273
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id" : "b1bc1d43b363d4d58ff0f0896bf765f1f6f55dcf",
+        "name" : "Casey Kaplan Inc",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116507382416807671621/photos\"\u003emamrak s\u003c/a\u003e"
+              ],
+              "photo_reference" : "CmRaAAAAxid3T-vgz5hauM4KW4I344KuH89-rdYwZ5w2u1GrUC11ebvyJNqln53XcGwPnJWjNAvkN2hUn7XOuOwJfez9OTnk3Hx7Wz-GYbOv3qTQKZct7srl2uVGAkMJfMHcHTcbEhAq8IrWQMExZgH7-yii8eTNGhTu4Cjirm2fgN9bN1xNk0RLrx9zYQ",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJt6X_dbhZwokRYfJrTeGlp6g",
+        "plus_code" : {
+           "compound_code" : "P2W5+C6 New York",
+           "global_code" : "87G8P2W5+C6"
+        },
+        "rating" : 4,
+        "reference" : "ChIJt6X_dbhZwokRYfJrTeGlp6g",
+        "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+     },
+     {
+        "formatted_address" : "416 E 59th St, New York, NY 10022, USA",
+        "geometry" : {
+           "location" : {
+              "lat" : 40.7592599,
+              "lng" : -73.96114720000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 40.76059437989272,
+                 "lng" : -73.95980862010728
+              },
+              "southwest" : {
+                 "lat" : 40.75789472010728,
+                 "lng" : -73.96250827989273
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id" : "4c93e47e4ab7b4e1d032f01a79f4ba2a795782ea",
+        "name" : "Ubu Gallery",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 432,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106828052920061257096/photos\"\u003eUbu Gallery\u003c/a\u003e"
+              ],
+              "photo_reference" : "CmRaAAAA9Owr22COYeMrmwxo8R4cvEc25YvOUVwFHYvXoAfmzeupY9rUwc_5D5n4KM1gyazGO4Iap6NJDckD53wVqFKCgnDoTEtWsQEwQ0hy45GaJlmI5vuXnHuRp3WlCFP7juWDEhBsJdTw4oK-d3zUiZ1I_-ZzGhSkYrqFDkeRTmVqXBRU4PADcywmeQ",
+              "width" : 648
+           }
+        ],
+        "place_id" : "ChIJNwg-C-dYwokR7pFow7mu9cc",
+        "plus_code" : {
+           "compound_code" : "Q25Q+PG New York",
+           "global_code" : "87G8Q25Q+PG"
+        },
+        "rating" : 5,
+        "reference" : "ChIJNwg-C-dYwokR7pFow7mu9cc",
+        "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ]
+     },
+     {
+        "formatted_address" : "44-19 Purves St, Long Island City, NY 11101, USA",
+        "geometry" : {
+           "location" : {
+              "lat" : 40.7469373,
+              "lng" : -73.94083500000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 40.74824307989272,
+                 "lng" : -73.93960817010726
+              },
+              "southwest" : {
+                 "lat" : 40.74554342010728,
+                 "lng" : -73.94230782989271
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id" : "ba73865214ceb74cee7e59de57330a0be9355471",
+        "name" : "SculptureCenter",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3036,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107704686849392872224/photos\"\u003eRegina Abalos\u003c/a\u003e"
+              ],
+              "photo_reference" : "CmRaAAAAeb9mBMV3bAR0hUwrXHEuhZ3oyaN0v0WQZS0H1-Z4OseiNNAXkhtXL4gWQfaKjA7oCWKSMvCsEbt4iloNN27REH9Uq0wKJK7Zu0ktTeNbfZ0j4W7JfuZ0UPCQAPNZdRUlEhA-0wL4yguVhMWh3eu59VTQGhQn2kdfFK9BNAf2ma5BtJA3nGXaIg",
+              "width" : 4048
+           }
+        ],
+        "place_id" : "ChIJg8J0MipZwokRO03w0rQvXJc",
+        "plus_code" : {
+           "compound_code" : "P3W5+QM New York",
+           "global_code" : "87G8P3W5+QM"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJg8J0MipZwokRO03w0rQvXJc",
+        "types" : [ "museum", "point_of_interest", "establishment" ]
+     },
+     {
+        "formatted_address" : "92 Plymouth St, Brooklyn, NY 11201, USA",
+        "geometry" : {
+           "location" : {
+              "lat" : 40.703791,
+              "lng" : -73.98974299999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 40.70517717989272,
+                 "lng" : -73.98838992010727
+              },
+              "southwest" : {
+                 "lat" : 40.70247752010727,
+                 "lng" : -73.9910895798927
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id" : "c9e0e353bbbb6105f8db2c9419d1e2d0610b3f1d",
+        "name" : "Smack Mellon",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 765,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104680079390142276405/photos\"\u003eSmack Mellon\u003c/a\u003e"
+              ],
+              "photo_reference" : "CmRaAAAAYJA3SxlNUN9yw6k8ryBny54JiDqvHPalDTVLSdiUD7J0lI9gkqqrWDTrbYyi7hGYzqJBYAhBXyHdMW9ZQjJSbINAJoNOGxEJa2Kqsn8AIQ4aIR0eqDMu28WD3ye7zgRREhC5xzkN-6SHCCI1NNYQA1uoGhRjMIezaOEJhcdkmiYYtwJYyiZFnA",
+              "width" : 1152
+           }
+        ],
+        "place_id" : "ChIJR2H3eTFawokRb0FeIuvN0jw",
+        "plus_code" : {
+           "compound_code" : "P236+G4 New York",
+           "global_code" : "87G8P236+G4"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJR2H3eTFawokRb0FeIuvN0jw",
+        "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+     },
+     {
+        "formatted_address" : "38 St Marks Pl, New York, NY 10003, USA",
+        "geometry" : {
+           "location" : {
+              "lat" : 40.7284172,
+              "lng" : -73.98754839999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 40.72981612989273,
+                 "lng" : -73.98616257010727
+              },
+              "southwest" : {
+                 "lat" : 40.72711647010728,
+                 "lng" : -73.98886222989272
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id" : "5463cde1f17dc9b0dc0ed19a1b57325b0717bcc8",
+        "name" : "Swiss Institute",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109843708921968309407/photos\"\u003eAllison H\u003c/a\u003e"
+              ],
+              "photo_reference" : "CmRaAAAAO3b223mBmh7QHP8YHih6glZv8Q735gUsp0pKP-Z6pm1mJjuIXBS4ZSJqrNDHdMjRlf2xF4NiBTgglMtTRbid4FfZ9f8cgv_B8hPyFqavOQHdh4ca5wZEr5g1LPaX0jIVEhAdo5MpGvZnd3xVXXKI9y-VGhQrxqB_wlkn7BUfr90Y0aRWP88oTw",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJK9SLWolZwokRfLobp8up_mg",
+        "plus_code" : {
+           "compound_code" : "P2H6+9X New York",
+           "global_code" : "87G8P2H6+9X"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJK9SLWolZwokRfLobp8up_mg",
+        "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+     },
+     {
+        "formatted_address" : "54 Franklin St, New York, NY 10013, USA",
+        "geometry" : {
+           "location" : {
+              "lat" : 40.71729699999999,
+              "lng" : -74.002709
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 40.71855887989272,
+                 "lng" : -74.00143607010727
+              },
+              "southwest" : {
+                 "lat" : 40.71585922010728,
+                 "lng" : -74.00413572989272
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id" : "bb9d592671ec856f4b4e7351f3348ed2e7cb99ea",
+        "name" : "Postmasters Gallery",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 825,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102229457537184691850/photos\"\u003ePostmasters Gallery\u003c/a\u003e"
+              ],
+              "photo_reference" : "CmRaAAAAAFufSP8n3VHSIOqZSCCuPSpsm39ZiNSxwAaEVwmQYrOf8WJf7RjutSWmp_ok5U8kDOZcY0Q9oNIrPprnvejrrQatsl2Y19xkTGWXLioyE9ZeBj1CN_SmTXE4AbgtXCGAEhAN2oGaKwBPCeDB4Rj9qZUqGhTfKvDbZHSIaZXDmF7Gad7WZOFIKw",
+              "width" : 1200
+           }
+        ],
+        "place_id" : "ChIJO7j_kiBawokR_ZYBzw_UkyA",
+        "plus_code" : {
+           "compound_code" : "PX8W+WW New York",
+           "global_code" : "87G7PX8W+WW"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJO7j_kiBawokR_ZYBzw_UkyA",
+        "types" : [ "art_gallery", "point_of_interest", "establishment" ]
+     },
+     {
+        "formatted_address" : "291 Church St, New York, NY 10013, USA",
+        "geometry" : {
+           "location" : {
+              "lat" : 40.7190458,
+              "lng" : -74.0044688
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 40.72043642989272,
+                 "lng" : -74.00320927010728
+              },
+              "southwest" : {
+                 "lat" : 40.71773677010727,
+                 "lng" : -74.00590892989273
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id" : "825d228c8bcffe3b4e877afc5b385307a3dc99c1",
+        "name" : "Apexart",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 997,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103441097725613571885/photos\"\u003eApexart\u003c/a\u003e"
+              ],
+              "photo_reference" : "CmRaAAAAxyKiXPH1J2wAPZdtFWXF75zeIa_I4ePDM4WA0RGpWTEk_981Hv-a0r69IKE7O-86Rq0X-2cNqdPRAxy15Sbw7vR3glK-GL6KU95zjaXEsD_pOnDMP-cXiTaY_CoKKEONEhAmMY7xEa-mXpLg4YUGyBIrGhRrl05-JIhZ0iN8vJ6nXG_2yRtvtQ",
+              "width" : 1500
+           }
+        ],
+        "place_id" : "ChIJi1gQm4pZwokRZbGY348g_r8",
+        "plus_code" : {
+           "compound_code" : "PX9W+J6 New York",
+           "global_code" : "87G7PX9W+J6"
+        },
+        "rating" : 5,
+        "reference" : "ChIJi1gQm4pZwokRZbGY348g_r8",
+        "types" : [ "point_of_interest", "establishment" ]
+     },
+     {
+        "formatted_address" : "1865 Broadway, New York, NY 10023, USA",
+        "geometry" : {
+           "location" : {
+              "lat" : 40.77027280000001,
+              "lng" : -73.982804
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 40.77162897989272,
+                 "lng" : -73.98116882010727
+              },
+              "southwest" : {
+                 "lat" : 40.76892932010728,
+                 "lng" : -73.98386847989272
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+        "id" : "faef65b55a9796fd7c5701db21e34e987e41bb09",
+        "name" : "Museum of Biblical Art",
+        "permanently_closed" : true,
+        "photos" : [
+           {
+              "height" : 640,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109077758544248725214/photos\"\u003eKelly VanValkenburgh\u003c/a\u003e"
+              ],
+              "photo_reference" : "CmRaAAAAVQ60tfYbblXdBVoTtKG4fJQlBAVmsJ5NNS3hYCIdGFbJL0eAPbsb0oyaVXmdbNovRqe4Ku_C_n2yKnucTsXEIf7EjN6XCbPiAl7A7FmuOG-YxXb3e9oXGcKzcbr7tUCAEhAaDbsDDVyEM0CZfMlqsgxkGhRkDyCAsm9U-U_5Q8Jso-VRtMYvMg",
+              "width" : 480
+           }
+        ],
+        "place_id" : "ChIJn-Ah-fVYwokRQSdL1eSJzdU",
+        "plus_code" : {
+           "compound_code" : "Q2C8+4V New York",
+           "global_code" : "87G8Q2C8+4V"
+        },
+        "rating" : 3.3,
+        "reference" : "ChIJn-Ah-fVYwokRQSdL1eSJzdU",
+        "types" : [ "museum", "point_of_interest", "establishment" ]
+     }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+  

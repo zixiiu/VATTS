@@ -1,0 +1,8 @@
+,attraction__id,attraction__name,attraction__formatted__address,attraction__location__lat,attraction__location__lng,attraction__opening__hours,attraction__rating,results__type
+0,3a87c22d2097ff671c680532bcf99d5665c2f79d,Victorian Gardens Amusement Park,"New York, NY 10019, USA",40.76777939999999,-73.97446630000002,True,4.2,"amusement_park, point_of_interest, establishment"
+1,90b19ff46230858b415a48c4511e17c216d0caf5,Deno's Wonder Wheel Amusement Park,"3059 W 12th St, Brooklyn, NY 11224, USA",40.57433839999999,-73.9781885,False,4.4,"amusement_park, point_of_interest, establishment"
+2,eaa944e92c221b8e6a423b6173fbe59cbedf72ea,Flushing Meadows Carousel,"111th St and 55th Ave, Corona, NY 11368, USA",40.743296799999996,-73.84927840000002,,4.7,"point_of_interest, establishment"
+3,f7c2c1dd5e8a13c2d2d4ca828d0f565bba33f212,Fantasy Forest Amusement Park,"5351 111th St, Corona, NY 11368, USA",40.74366,-73.849958,False,4.2,"amusement_park, point_of_interest, establishment"
+4,b7af42fe75abcc334b98175ee7312163a8091999,The Cyclone Roller Coaster Coney Island NY,"1000 Surf Ave, Brooklyn, NY 11224, USA",40.5745232,-73.97761079999998,True,4.5,"point_of_interest, establishment"
+5,bc829576e14c8b42074bd5199bc1a56a5cd38384,Scream Zone at Luna Park,"1295 Riegelmann Boardwalk, Brooklyn, NY 11224, USA",40.573933000000004,-73.9803675,True,4.4,"amusement_park, point_of_interest, establishment"
+6,1399b4a298f5376d6639f7a7250f847b22aa7c81,Adventurers Amusement Park,"1824 Shore Pkwy, Brooklyn, NY 11214, USA",40.590669399999996,-73.99469409999998,False,4.0,"amusement_park, point_of_interest, establishment"

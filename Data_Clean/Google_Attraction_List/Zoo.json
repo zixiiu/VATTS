@@ -1,0 +1,264 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "2300 Southern Blvd, Bronx, NY 10460, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8505949,
+               "lng" : -73.8769982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.86110289999999,
+                  "lng" : -73.86736774999999
+               },
+               "southwest" : {
+                  "lat" : 40.83834530000001,
+                  "lng" : -73.88760074999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3ee4872ae045fe0d1b5d37525e0dd63ba4462540",
+         "name" : "Bronx Zoo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109077120766404962053/photos\"\u003eGlauco Malek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA78ZH3RmIwb3KcEsrvit7hWxM0X3AluS5342HhdjsCBK5ncGqzw_n3V6ztZHlBOf4abOW_dgCjwprTuaLr2NTHgER-xJ2v8FD8kei1cR_XbdrY2OnY9A6coWqPC5RFO9LEhB0lpjqIxAdzpexapl4f6S5GhRJBacvR3AKGLosI1fgTAt_rK3GFA",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJi9JqUYP0wokRLhCVlxy0bgU",
+         "plus_code" : {
+            "compound_code" : "V42F+66 New York",
+            "global_code" : "87G8V42F+66"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJi9JqUYP0wokRLhCVlxy0bgU",
+         "types" : [ "zoo", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "E 64th St, New York, NY 10021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.767778,
+               "lng" : -73.9718335
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76893942989273,
+                  "lng" : -73.96989795
+               },
+               "southwest" : {
+                  "lat" : 40.76623977010728,
+                  "lng" : -73.97281374999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f623597bb5e95d518d99e6aa87e7f5056a5f856a",
+         "name" : "Central Park Zoo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110701384570467493502/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJHhCJ_rOKO5qTUJgCLuWB8xHCl643MFeSf8qn1ay3zBHxP3qOM910Y_bXHlcc5x5nDOVyMEt0SV2OtDTT8QgMT8F2pYYUqs7jA8eRe5R47sbR9xrfmZL4SsnCfBfSYI9EhCKpzkkXPXHu0CKSumfsz3_GhSV-MaY43r1l5KvHDt0t4nlXWmFOw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJaWjW_PFYwokRFD8a2YQu12U",
+         "plus_code" : {
+            "compound_code" : "Q29H+47 New York",
+            "global_code" : "87G8Q29H+47"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJaWjW_PFYwokRFD8a2YQu12U",
+         "types" : [ "zoo", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "53-51 111th Street Flushing, Corona, NY 11368, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7439678,
+               "lng" : -73.84924579999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75050919999999,
+                  "lng" : -73.8454016
+               },
+               "southwest" : {
+                  "lat" : 40.73684040000001,
+                  "lng" : -73.85513839999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b5c0c7d98482ce21d68d4bd6948a85fda8f756e1",
+         "name" : "Queens Zoo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118416263825892469322/photos\"\u003eEliyas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaMiJyIsA3SqnYDwC2pxwNPwUoHDU40eU9mWZPsfib7k149AUjyLALKUaINNdQ3BeFEM-fKSLZtTSoD58iHCrFdk6mn63TEmmWliUmpcHH7R2l_dxDUxIHbDHzgEfFdNaEhDRkeeshjAZeVmr11bIq9bnGhSvYy6PqZSJKolXiXTSMirtNmUDQA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJr4Vyr9BfwokRwIj7AIr7bzE",
+         "plus_code" : {
+            "compound_code" : "P5V2+H8 New York",
+            "global_code" : "87G8P5V2+H8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJr4Vyr9BfwokRwIj7AIr7bzE",
+         "types" : [ "zoo", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "450 Flatbush Ave, Brooklyn, NY 11225, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6653747,
+               "lng" : -73.96541379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.66685772989272,
+                  "lng" : -73.96336629999999
+               },
+               "southwest" : {
+                  "lat" : 40.66415807010728,
+                  "lng" : -73.9669347
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "88c350d1cffb9e7d805886c219b746cb78f926d3",
+         "name" : "Prospect Park Zoo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100089025374774345128/photos\"\u003eAndrea Dixon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZTf9lOlu3_tQfZo8-33NjjMk_2Z3Iml8o-OxJIHScOjEbzMOKpEGfBaFjSWZ5R9XqO30IJR4lY8Yt9Ylv4LY5viQ1wgS-7Qn2gbm9YwZkMbf1ayWvZCnP6PVbfl1eiffEhC_M4o3JON0gLAlh-eT1IulGhTqGcKHVV_AwDEFAS-p2gwHqI90gw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJnWjS-wRbwokRpCq5RGEIH3E",
+         "plus_code" : {
+            "compound_code" : "M28M+4R New York",
+            "global_code" : "87G8M28M+4R"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJnWjS-wRbwokRpCq5RGEIH3E",
+         "types" : [ "zoo", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "602 Surf Ave, Brooklyn, NY 11224, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5742632,
+               "lng" : -73.9748754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.57560817989272,
+                  "lng" : -73.97412062010727
+               },
+               "southwest" : {
+                  "lat" : 40.57290852010728,
+                  "lng" : -73.97682027989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d6c14b576144c082256cf33bcef201794d5fd78",
+         "name" : "New York Aquarium",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112385749461986717978/photos\"\u003eDaniel Alexander Catano\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA78iW_ZNqrJFv3e_qITHMTg3bWjsikRUYiJkN4GymKgk7-Dk9CWqEgf-_f4pPxnYoQq-vK_ePFJIpgU0LpvYS0-e1KXjHTaPSXj0CFt1uk7WvBXSMxnsxHd0eD14Kc_nhEhCEnDeBidXziPWnOXIjX0fNGhSY_FWNXMXtcFBN1mXFqfwavkOgvA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJcRMeDzZEwokR3NsXUDpO9UU",
+         "plus_code" : {
+            "compound_code" : "H2FG+P2 New York",
+            "global_code" : "87G8H2FG+P2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJcRMeDzZEwokR3NsXUDpO9UU",
+         "types" : [ "aquarium", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "614 Broadway, Staten Island, NY 10310, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.625124,
+               "lng" : -74.11537
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.62660662989272,
+                  "lng" : -74.11358672010728
+               },
+               "southwest" : {
+                  "lat" : 40.62390697010727,
+                  "lng" : -74.11628637989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "38d6f8d7b1a5deb823b1c39b4aff57aef37092d8",
+         "name" : "Staten Island Zoo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105213909313024807124/photos\"\u003eMarkRobert Murphy Sr\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACrv47TiSlw5uzuj6-AZvTrz7u4YV_varr-mn1mW3fY2Ec4s4DENtNJt6nrwORcTdgwyOKZE2qa-J9h_F30lu2j7KSw2BqUWuioW_DlreMFvqW3Q7043itoheG5EEn4KPEhAmsZ52cMSuBMlSKZB2OV5iGhR2-R4V_Aa1KBLRtUIE8YjwI_85Pw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJjfNxe3BOwokRJWFGqQueVFY",
+         "plus_code" : {
+            "compound_code" : "JVGM+2V New York",
+            "global_code" : "87G7JVGM+2V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJjfNxe3BOwokRJWFGqQueVFY",
+         "types" : [ "zoo", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

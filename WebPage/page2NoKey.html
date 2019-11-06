@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VATTS Planning</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css'
+          integrity='sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU' crossorigin='anonymous'>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS: You can use this stylesheet to override any Bootstrap styles and/or apply your own styles -->
+    <link href="css/custom.css" rel="stylesheet">
+
+
+    <style>
+        /* Set the size of the div element that contains the map */
+        #map {
+            height: 650px; /* The height is 400 pixels */
+            width: 50%; /* The width is the width of the web page */
+        }
+
+        .autoScroll {
+
+            height: 650px;
+            overflow: auto;
+        }
+
+        body, h1, h2, h3, h4, h5, h6 {
+            font-family: "Raleway", Arial, Helvetica, sans-serif
+        }
+
+        .myLink {
+            display: none
+        }
+
+        .select {
+            height: 40px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+<div class="w3-bar w3-white w3-border-bottom w3-xlarge">
+    <a class="w3-bar-item w3-text-red"><b>VATTS - My Travel Plan</b></a>
+    <a class="w3-bar-item w3-button w3-right w3-red" id="confirmButton">Confirm</a>
+    <a class="w3-bar-item w3-button w3-right w3-red" id="timeLineButton" onclick="gotoTimeLine()">Time Line</a>
+
+
+</div>
+<!--The div element for the map -->
+<div>
+    <div id="map" class="w3-half"></div>
+
+    <div class="col-sm-6">
+        <div class="autoScroll" id="autoScroll">
+
+            <!-- Alert -->
+
+
+            <!-- Articles -->
+            <!--<div class="row">-->
+            <!--<article class="col-xs-12">-->
+            <!--<h2>Michael Werner Gallery</h2>-->
+            <!--<p class="pull-right" align="right"><span><img src="art-gallery-icon.png" width="100" height="100"></span></br>-->
+            <!--<span class="label label-default">Art Gallery</span></p>-->
+            <!--<p>Address: 4 E 77th St # 2, New York, NY 10075, USA</p>-->
+            <!--<p class="w3-text-red"><b>Rating: 5.0</b></p>-->
+            <!--<p>Latitude: 40.775242 </p>-->
+            <!--<p>Longitude: -73.964254</p>-->
+
+            <!--<p>-->
+            <!--<button class="w3-bar-item w3-button w3-red tablink">-->
+            <!--<div class="wanttogo" res="0">Delete this point</div>-->
+            <!--</button>-->
+            <!--</p>-->
+
+            <!--</article>-->
+            <!--</div>-->
+            <!--<hr>-->
+            <!--<div class="row">-->
+            <!--<article class="col-xs-12">-->
+            <!--<h2>Staley-Wise Gallery</h2>-->
+            <!--<p class="pull-right" align="right"><span><img src="art-gallery-icon.png" width="100" height="100"></span></br>-->
+            <!--<span class="label label-default">Art Gallery</span></p>-->
+            <!--<p>Address: 100 Crosby St #305, New York, NY 10012, USA</p>-->
+            <!--<p class="w3-text-red"><b>Rating: 4.8</b></p>-->
+            <!--<p>Latitude: 40.7240493 </p>-->
+            <!--<p>Longitude: -73.99776849999999</p>-->
+            <!--<p>-->
+            <!--<button class="w3-bar-item w3-button w3-red tablink">-->
+            <!--<div class="wanttogo" res="0">Delete this point</div>-->
+            <!--</button>-->
+            <!--</p>-->
+
+            <!--</article>-->
+            <!--</div>-->
+            <!--<hr>-->
+            <!--<div class="row">-->
+            <!--<article class="col-xs-12">-->
+            <!--<h2>Ace & Jack Casino Theme Night Party Rentals NY NJ CT PA</h2>-->
+            <!--<p class="pull-right" align="right"><span><img src="casino-icon.png" width="100"-->
+            <!--height="100"></span></br> <span-->
+            <!--class="label label-default">Casino</span></p>-->
+            <!--<p>Address: 109 N Central Ave, Valley Stream, NY 11580, USA</p>-->
+            <!--<p class="w3-text-red"><b>Rating: 4.9</b></p>-->
+            <!--<p>Latitude: 40.6705843 </p>-->
+            <!--<p>Longitude: -73.708237</p>-->
+            <!--<p>-->
+            <!--<button class="w3-bar-item w3-button w3-red tablink">-->
+            <!--<div class="wanttogo" res="0">Delete this point</div>-->
+            <!--</button>-->
+            <!--</p>-->
+
+            <!--</article>-->
+            <!--</div>-->
+            <!--<hr>-->
+            <!--<div class="row">-->
+            <!--<article class="col-xs-12">-->
+            <!--<h2>Central Park</h2>-->
+            <!--<p class="pull-right" align="right"><span><img src="park-icon.png" width="100"-->
+            <!--height="100"></span></br> <span-->
+            <!--class="label label-default">Park</span></p>-->
+            <!--<p>Address: New York, NY, USA</p>-->
+            <!--<p class="w3-text-red"><b>Rating: 4.8</b></p>-->
+            <!--<p>Latitude: 40.7828647 </p>-->
+            <!--<p>Longitude: -73.9653551</p>-->
+            <!--<p>-->
+            <!--<button class="w3-bar-item w3-button w3-red tablink">-->
+            <!--<div class="wanttogo" res="0">Delete this point</div>-->
+            <!--</button>-->
+            <!--</p>-->
+
+            <!--</article>-->
+            <!--</div>-->
+            <!--<hr>-->
+
+        </div><!--/Center Column-->
+    </div>
+</div>
+</div>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript" src="js/hashmap.js"></script>
+<script>
+    //     $(function () {
+    //     $.ajax({
+    //         type: 'POST',
+    //         url: pathRoot + 'Page1InputPost',
+    //         data: JSON.stringify({
+    //             "startTime": startTimeValue,
+    //             "endTime": endTimeValue,
+    //             "departAddress": dpAddress,
+    //             "arriveAddress": arrAddress,
+    //             "typeCheckList": ckeckTFList
+    //         }),
+    //
+    //         contentType: 'application/json',
+    //         success: function (response) {
+    //
+    //             if (response.redirect) {
+    //                 window.location.href = response.redirect;
+    //                 console.log(response)
+    //             }
+    //         },
+    //         error: function (XMLHttpRequest, textStatus, errorThrown) {
+    //             alert(errorThrown);
+    //         }
+    //     });
+    // });
+
+    var pathRoot = 'http://127.0.0.1:5000/';
+
+    function GetRequest() {
+        var url = location.search; //获取url中"?"符后的字串
+        var theRequest = new Object();
+        if (url.indexOf("?") != -1) {
+            var str = url.substr(1);
+            strs = str.split("&");
+            for (var i = 0; i < strs.length; i++) {
+                theRequest[strs[i].split("=")[0]] = unescape(strs[i].split("=")[1]);
+            }
+        }
+
+        return theRequest;
+    }
+
+    var dataBack = GetRequest().json;
+    // dataBack.replace(new RegExp("\\+", "g"), ' ');
+    dataBack = dataBack.replace(/\+/g, ' ');
+    //dataBack = dataBack.replace(/'/g, '"');
+    // dataBack.json.replace(/\+/g, " ");
+    // console.log(dataBack);
+    dataJson = JSON.parse(dataBack);
+
+    // $(function () {
+    //     var initOffset = 0;
+    //     //$("#append").click(function () {
+    //     var id = new Date().getMinutes() + '-' + new Date().getSeconds() + '-' + new Date().getMilliseconds();
+    //     $("#row").append("<div id='" + id + "'>bbb" + id + "<br>");
+    //     $("#row").animate({scrollTop: $("#aaa")[0].scrollHeight}, '1000');
+    //     //});
+    // });
+
+    var iconMap = {
+        "amusement_park": "amusement-park_icon.png",
+        "aquarium": "aquarium-icon.png",
+        "art_gallery": "art-gallery-icon.png",
+        "casino": "casino-icon.png",
+        "museum": "museum-icon.png",
+        "park": "park-icon.png",
+        "shopping_mall": "shopping-mall-icon.png",
+        "zoo": "zoo-icon.png"
+    };
+
+    // var chooseIcon = function (type) {
+    //     return iconMap.type;
+    // };
+    //
+    // chooseIcon(amusement_park);
+
+    var iconHashMap = new HashMap();
+    iconHashMap.put("amusement_park", "amusement-park-icon.png");
+    iconHashMap.put("aquarium", "aquarium-icon.png");
+    iconHashMap.put("art_gallery", "art-gallery-icon.png");
+    iconHashMap.put("casino", "casino-icon.png");
+    iconHashMap.put("museum", "museum-icon.png");
+    iconHashMap.put("park", "park-icon.png");
+    iconHashMap.put("shopping_mall", "shopping-mall-icon.png");
+    iconHashMap.put("zoo", "zoo-icon.png");
+
+    // iconMap.prototype.set("amusement_park", "amusement-park_icon.png");
+    // iconMap.prototype.set("aquarium", "aquarium-icon.png");
+    // iconMap.prototype.set("art_gallery", "art-gallery-icon.png");
+    // iconMap.prototype.set("casino", "casino-icon.png");
+    // iconMap.prototype.set("museum", "museum-icon.png");
+    // iconMap.prototype.set("park", "park-icon.png");
+    // iconMap.prototype.set("shopping_mall", "shopping-mall-icon.png");
+    // iconMap.prototype.set("zoo", "zoo-icon.png");
+
+    wayPointsList = [];
+    // wayPointsList = [
+    //     {
+    //         name: "Michael Werner Gallery",
+    //         value: {lat: 40.775242, lng: -73.964254}
+    //     },
+    //     {
+    //         name: "Staley-Wise Gallery",
+    //         value: {lat: 40.7240493, lng: -73.99776849999999}
+    //     },
+    //     {
+    //         name: "Ace & Jack Casino Theme Night Party Rentals NY NJ CT PA",
+    //         value: {lat: 40.6705843, lng: -73.708237}
+    //     },
+    //     {
+    //         name: "Central Park",
+    //         value: {lat: 40.7828647, lng: -73.9653551}
+    //     }
+    // ];
+
+    function newPlace(name, lat, lng) {
+        this.name = name;
+        this.value = {};
+        this.value.lat = lat;
+        this.value.lng = lng;
+    }
+
+    for (var i = 0; i < dataJson.places.length; ++i) {
+        // var div = document.getElementById("autoScroll");
+        // var br = document.createElement("br");
+        // div.appendChild(br);
+        //
+        // var labelDiv = document.createElement("w3-text-red");
+        // labelDiv.innerText = dataJson.places[i].name;
+        // LabelDiv.setAttribute('class', "w3-text-red");
+        //
+        // div.appendChild(labelDiv);
+        var iconname = dataJson.places[i].types.split(",")[0];
+
+        var insertHtml1 =
+            '    <article class="col-xs-12">\n' +
+            '    <h2>' + dataJson.places[i].name + '</h2>\n' +
+            '    <p class="pull-right" align="right"><span><img src=' + iconHashMap.get(iconname) + ' width="100" height="100"></span></br>\n' +
+            '        <span class="label label-default">' + dataJson.places[i].types.split(",")[0] + '</span></p>\n' +
+            '    <p>Address: ' + dataJson.places[i].formatted_address + '</p>\n' +
+            '    <p class="w3-text-red"><b>Rating: ' + dataJson.places[i].rating + '</b></p>\n' +
+            '    <p>Latitude: ' + dataJson.places[i].lat + '</p>\n' +
+            '    <p>Longitude: ' + dataJson.places[i].lng + '</p>\n' +
+            '    <p>\n' +
+            '        <button class="w3-bar-item w3-button w3-red tablink">\n' +
+            '            <div class="wanttogo" res="0">Delete this point</div>\n' +
+            '        </button>\n' +
+            '    </p>\n' +
+            '<hr>' +
+            '\n' +
+            '</article>' +
+            '\n'
+
+        $('#autoScroll').append(insertHtml1);
+
+
+        var newPlc = new newPlace(dataJson.places[i].name, dataJson.places[i].lat, dataJson.places[i].lng);
+        // newPlace.name = dataJson.places[i].name;
+        // newPlace.value.lat = dataJson.places[i].lat;
+        // newPlace.value.lng = dataJson.places[i].lng;
+
+        wayPointsList.push(newPlc);
+    }
+
+
+    // Initialize and add the map
+    function initMap() {
+        var directionsService = new google.maps.DirectionsService;
+        var directionsDisplay = new google.maps.DirectionsRenderer;
+        // The location of New York
+        var newYork = {lat: 40.704160, lng: -74.012744};
+        // The map, centered at New York
+        var map = new google.maps.Map(
+            document.getElementById('map'), {zoom: 10, center: newYork});
+        // The marker, positioned at New York
+        var marker = new google.maps.Marker({position: newYork, map: map});
+
+
+        directionsDisplay.setMap(map);
+
+        document.getElementById('confirmButton').addEventListener('click', function () {
+            calculateAndDisplayRoute(directionsService, directionsDisplay);
+        });
+    }
+
+
+    function calculateAndDisplayRoute(directionsService, directionsDisplay) {
+        var waypts = [];
+        //   var checkboxArray = document.getElementById('waypoints');
+        for (var i = 0; i < wayPointsList.length; i++) {
+            waypts.push({
+                location: wayPointsList[i].value,
+                stopover: true
+            });
+        }
+
+        var originLat = dataJson.start.lat;
+        var originLng = dataJson.start.long;
+        var destinationLat = dataJson.end.lat;
+        var destinationLng = dataJson.end.long;
+
+
+        directionsService.route({
+            // origin: document.getElementById('start').value,
+            // destination: document.getElementById('end').value,
+            // origin: {lat: 40.704160, lng: -74.012744},
+            // destination: {lat: 40.604160, lng: -73.9},
+            origin: {lat: originLat, lng: originLng},
+            destination: {lat: destinationLat, lng: destinationLng},
+            waypoints: waypts,
+            optimizeWaypoints: true,
+            travelMode: 'DRIVING'
+        }, function (response, status) {
+            if (status === 'OK') {
+                directionsDisplay.setDirections(response);
+                var route = response.routes[0];
+                var summaryPanel = document.getElementById('directions-panel');
+                summaryPanel.innerHTML = '';
+                // For each route, display summary information.
+                for (var i = 0; i < route.legs.length; i++) {
+                    var routeSegment = i + 1;
+                    summaryPanel.innerHTML += '<b>Route Segment: ' + routeSegment +
+                        '</b><br>';
+                    summaryPanel.innerHTML += route.legs[i].start_address + ' to ';
+                    summaryPanel.innerHTML += route.legs[i].end_address + '<br>';
+                    summaryPanel.innerHTML += route.legs[i].distance.text + '<br><br>';
+                }
+            } else {
+                window.alert('Directions request failed due to ' + status);
+            }
+        });
+    }
+
+    var gotoTimeLine = function () {
+        $(function () {
+            $.ajax({
+                type: 'POST',
+                url: pathRoot + 'Page2InputPost',
+                data: JSON.stringify(dataJson),
+
+                contentType: 'application/json',
+                success: function (response) {
+
+                    if (response.redirect) {
+                        window.location.href = response.redirect;
+                        console.log(response)
+                    }
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert(errorThrown);
+                }
+            });
+        });
+    };
+
+
+    $(".wanttogo").click(function () {
+
+        var i = $(this).attr("res");
+
+        if (i == 0) {
+
+            $(this).attr("res", "1");
+
+            $(this).html("");
+
+            $(this).html("Add this point");
+
+        } else {
+
+            $(this).attr("res", "0");
+
+            $(this).html("");
+
+            $(this).html("Delete this point");
+
+        }
+
+    });
+
+</script>
+<!--Load the API from the specified URL
+* The async attribute allows the browser to render the page while the API loads
+* The key parameter will contain your own API key (which is not needed for this tutorial)
+* The callback parameter executes the initMap() function
+-->
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=APIKEY!&callback=initMap">
+</script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Timeline</title>
+
+
+    <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600'>
+
+    <link rel="stylesheet" href="css/style.css">
+
+
+</head>
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<body>
+<div class="timeline" id="timeline">
+    <!--<div class="entry">-->
+    <!--<div class="title">-->
+    <!--<h3>8:00AM-10:00AM</h3>-->
+    <!--<p>Art Gallery</p>-->
+    <!--</div>-->
+    <!--<div class="body">-->
+    <!--<p>Staley-Wise Gallery</p>-->
+    <!--<ul>-->
+    <!--<li>100 Crosby St #305, New York, NY 10012, USA</li>-->
+    <!--<li>Rating: 4.8</li>-->
+    <!--</ul>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <!--<div class="entry">-->
+    <!--<div class="title">-->
+    <!--<h3>11:00AM-1:00PM</h3>-->
+    <!--<p>Art Gallery</p>-->
+    <!--</div>-->
+    <!--<div class="body">-->
+    <!--<p>Michael Werner Gallery</p>-->
+    <!--<ul>-->
+    <!--<li>4 E 77th St # 2, New York, NY 10075, USA</li>-->
+    <!--<li>Rating: 5.0</li>-->
+    <!--</ul>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <!--<div class="entry">-->
+    <!--<div class="title">-->
+    <!--<h3>1:10PM-2:00PM</h3>-->
+    <!--<p>Park</p>-->
+    <!--</div>-->
+    <!--<div class="body">-->
+    <!--<p>Central Park</p>-->
+    <!--<ul>-->
+    <!--<li>New York, NY, USA</li>-->
+    <!--<li>Rating: 4.8</li>-->
+    <!--</ul>-->
+    <!--</div>-->
+    <!--</div>-->
+
+    <!--<div class="entry">-->
+    <!--<div class="title">-->
+    <!--<h3>3:00PM-6:00PM</h3>-->
+    <!--<p>Casino</p>-->
+    <!--</div>-->
+    <!--<div class="body">-->
+    <!--<p>Ace & Jack Casino Theme Night Party Rentals NY NJ CT PA</p>-->
+    <!--<ul>-->
+    <!--<li>109 N Central Ave, Valley Stream, NY 11580, USA</li>-->
+    <!--<li>Rating: 4.9</li>-->
+    <!--</ul>-->
+    <!--</div>-->
+    <!--</div>-->
+
+
+</div>
+<script>
+    function GetRequest() {
+        var url = location.search; //获取url中"?"符后的字串
+        var theRequest = new Object();
+        if (url.indexOf("?") != -1) {
+            var str = url.substr(1);
+            strs = str.split("&");
+            for (var i = 0; i < strs.length; i++) {
+                theRequest[strs[i].split("=")[0]] = unescape(strs[i].split("=")[1]);
+            }
+        }
+
+        return theRequest;
+    }
+
+    var dataBack = GetRequest().json;
+    // dataBack.replace(new RegExp("\\+", "g"), ' ');
+    dataBack = dataBack.replace(/\+/g, ' ');
+    //dataBack = dataBack.replace(/'/g, '"');
+    // dataBack.json.replace(/\+/g, " ");
+    // console.log(dataBack);
+    dataJson = JSON.parse(dataBack);
+
+    for (var i = 0; i < dataJson.length; ++i) {
+        // var div = document.getElementById("autoScroll");
+        // var br = document.createElement("br");
+        // div.appendChild(br);
+        //
+        // var labelDiv = document.createElement("w3-text-red");
+        // labelDiv.innerText = dataJson.places[i].name;
+        // LabelDiv.setAttribute('class', "w3-text-red");
+        //
+        // div.appendChild(labelDiv);
+        var pointType = "";
+        var pointName = "";
+        var pointInfo = "";
+        var pointRate = "";
+        if (dataJson[i].cat === "transit") {
+            pointType = "transit";
+            pointName = dataJson[i - 1].name + '     TO     ' + dataJson[i + 1].name;
+            pointInfo = "Driving";
+            pointRate = (parseInt(dataJson[i].duration_sec) / 60).toFixed(2).toString() + 'Min';
+
+        }
+        else {
+            pointType = dataJson[i].types.split(",")[0].replace('_', ' ');
+            pointName = dataJson[i].name;
+            pointInfo = dataJson[i].address;
+            pointRate = 'Rating:  ' + dataJson[i].rating;
+        }
+        var insertHtml1 =
+            '    <div class="entry">\n' +
+            '        <div class="title">\n' +
+            '            <h3>' + dataJson[i].start_time + '-' + dataJson[i].end_time + '</h3>\n' +
+            '            <p>' + pointType + '</p>\n' +
+            '        </div>\n' +
+            '        <div class="body">\n' +
+            '            <p>' + pointName + '</p>\n' +
+            '            <ul>\n' +
+            '                <li>' + pointInfo + '</li>\n' +
+            '                <li>' + pointRate + '</li>\n' +
+            '            </ul>\n' +
+            '        </div>\n' +
+            '    </div>';
+
+        $('#timeline').append(insertHtml1);
+    }
+
+</script>
+
+</body>
+</html>

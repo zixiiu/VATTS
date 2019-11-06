@@ -1,0 +1,592 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "110-00 Rockaway Blvd, Jamaica, NY 11420, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6728572,
+               "lng" : -73.832624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67452584999999,
+                  "lng" : -73.8317764
+               },
+               "southwest" : {
+                  "lat" : 40.67147325,
+                  "lng" : -73.8351668
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9cc2b1258bc46df79360d2fb9b4ada56feb19b93",
+         "name" : "Resorts World Casino New York City",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111910397461047266781/photos\"\u003eWilliam Nessanbaum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYweZmx8YqXZl8USpjGtDPb4pzzHj35XoVVlhswdKVAQtCCH6_1wTvznxZLTy-NEqfwrJFd8PPyPOtxn8SU2ngwQW5BCP7hQu-ibqCxN8hKSkn5CdU3b1A2ymB2OiTx6jEhC7rgLwgKwRd_jMF4zjtD8wGhQMfdk3p0aGnFCDQqfq_29plSSNyA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJIdDbQENnwokRbCypkvjzglk",
+         "plus_code" : {
+            "compound_code" : "M5F8+4X New York",
+            "global_code" : "87G8M5F8+4X"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJIdDbQENnwokRbCypkvjzglk",
+         "types" : [
+            "casino",
+            "night_club",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "810 Yonkers Ave, Yonkers, NY 10704, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.9193015,
+               "lng" : -73.8645107
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.92121367989272,
+                  "lng" : -73.86364172010728
+               },
+               "southwest" : {
+                  "lat" : 40.91851402010727,
+                  "lng" : -73.86634137989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e1e7f454ca178b366a75ae52d9011a575e247a91",
+         "name" : "Empire City Casino",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 652,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104669812234174187599/photos\"\u003eEmpire City Casino\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwc-u-q_bP5u35PAfkXKtqKcMlm8ts0SyNuk-I4bFDvanXCtYG9VU0x-Dtb2v2Rp2prI1MP4SxTVcY2ggmteEk6wrXyJs5bVoK6fDHUPgJSee8s016ab0Y5xBHWYR3QttEhBUMRiSsGxzeZfd78bq0WZ7GhQBgQCUn7SpS-m-5U4sjgf7b7zydg",
+               "width" : 978
+            }
+         ],
+         "place_id" : "ChIJh7tBHr7ywokR4hFTwLzlguk",
+         "plus_code" : {
+            "compound_code" : "W49P+P5 Yonkers, New York",
+            "global_code" : "87G8W49P+P5"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJh7tBHr7ywokR4hFTwLzlguk",
+         "types" : [ "casino", "restaurant", "point_of_interest", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "110-00 Rockaway Blvd, South Ozone Park, NY 11420, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.672473,
+               "lng" : -73.83285099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67382282989272,
+                  "lng" : -73.83150117010727
+               },
+               "southwest" : {
+                  "lat" : 40.67112317010727,
+                  "lng" : -73.83420082989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ed4b2f2a33f6d110aba102ea428770d3d6a7bfb0",
+         "name" : "紐約市雲頂世界賭場",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1364,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106252167620113156703/photos\"\u003e紐約市雲頂世界賭場\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIe-YdnyFVDdU_ofWzVZ_uoRDMzC9aQqC8PeB6Jl-Q8Y5ozdIlISvqSVyTkmuuAj779aqs8H8HFo9NV0Umet9hUlL2c_WSKVdZ8YxiuNCX2OdG4Ud70AI4jFxvNK47ZcvEhCi0oXkHA3hMvVoKnmTqI_bGhT0ozbYLw774Ls4aqpKPVRl0aa68g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJtzOQqGdnwokRpO7AXGJCjnc",
+         "rating" : 3.4,
+         "reference" : "ChIJtzOQqGdnwokRpO7AXGJCjnc",
+         "types" : [ "casino", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "109 N Central Ave, Valley Stream, NY 11580, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6705843,
+               "lng" : -73.708237
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67191227989272,
+                  "lng" : -73.70699787010727
+               },
+               "southwest" : {
+                  "lat" : 40.66921262010728,
+                  "lng" : -73.70969752989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "312736c2cb5593f36e5a1a50d151cf7e941cdf89",
+         "name" : "Ace & Jack Casino Theme Night Party Rentals NY NJ CT PA",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113093658236836274451/photos\"\u003eAce &amp; Jack Casino Theme Night Party Rentals NY NJ CT PA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARxylKT2o3EKk_brIqKedH1d7ZIkv6z3Y_-t8UpLb3a11-WH0I37XTkdyWmJMvdsW8P4Cr-a0NtNEmENuiGOVCFwBNgHSXIFEzpjmivGvQzMBrICKRUS9oDTrmu-sJaKFEhBHu0WpRVrZBsbCEAQVOlsEGhQwi8UAEwgdkaI6BcoJ5cLVHVTezg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJd_ukxHtkwokRRhu0GlALOgY",
+         "plus_code" : {
+            "compound_code" : "M7CR+6P Valley Stream, Hempstead, NY",
+            "global_code" : "87G8M7CR+6P"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJd_ukxHtkwokRRhu0GlALOgY",
+         "types" : [ "casino", "point_of_interest", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "1 E 28th St, 6th floor, New York, NY 10016, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7446424,
+               "lng" : -73.9868048
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74599222989271,
+                  "lng" : -73.98545497010728
+               },
+               "southwest" : {
+                  "lat" : 40.74329257010727,
+                  "lng" : -73.98815462989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c80f206dd472c36122647050c271a6b8b70fa798",
+         "name" : "Big Deal Casino",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1241,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104815692560116030025/photos\"\u003eBig Deal Casino\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm-TJrM9NfGFte5R2mOjVvoirDwWOHSWbW2que8AOZOoRk5kbZNP2Ubd7HzXXVaFlKdguxngC9Ajm5eFisJFGIJhx4EOmLtSPdNfFKTspBJdDKSBsea2O10aRlwOFP4UOEhA3qMMmw4QGeRvU2tymHgzsGhRK8KVukaHykcK08I8mbJGsHaYbeA",
+               "width" : 1243
+            }
+         ],
+         "place_id" : "ChIJ36JPOKZZwokRtqFVlZpq8k4",
+         "plus_code" : {
+            "compound_code" : "P2V7+V7 New York",
+            "global_code" : "87G8P2V7+V7"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ36JPOKZZwokRtqFVlZpq8k4",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1346 39th St, Brooklyn, NY 11218, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.639705,
+               "lng" : -73.985322
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.64115382989272,
+                  "lng" : -73.98386847010728
+               },
+               "southwest" : {
+                  "lat" : 40.63845417010727,
+                  "lng" : -73.98656812989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "737fb7bcb22f0217ed1254df5acc9e838f6b7a5d",
+         "name" : "Online Casino New York",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 798,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112665437400589823259/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2Wak7zlKmDS0MXFPgCh4Eh7UFUDDLqBr5OxAtWIUkviTv0MV4P2DJ8PorFkZtVB9Ri2-TAJv26u1zigaAosXS_FRCXn0YHhjdV8BBg9x_ej07zgapKc0Ifve7uISlJqVEhBAgdJMAiCz5MPDhFzbTe4LGhTQmbLUbUm6biZ5VVVtVysoFvFz4g",
+               "width" : 1988
+            }
+         ],
+         "place_id" : "ChIJwVXsWDxbwokR5Ygbs0GgVNI",
+         "plus_code" : {
+            "compound_code" : "J2Q7+VV New York",
+            "global_code" : "87G8J2Q7+VV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJwVXsWDxbwokR5Ygbs0GgVNI",
+         "types" : [ "casino", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "110-00 Rockaway Blvd, South Richmond Hill, NY 11419, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6715214,
+               "lng" : -73.83334119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67293772989272,
+                  "lng" : -73.83237637010727
+               },
+               "southwest" : {
+                  "lat" : 40.67023807010727,
+                  "lng" : -73.83507602989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ec00487020a945d829ca23d1c4274d3f2ca98e85",
+         "name" : "NYRA Bets",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1150,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115883915702461933060/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0jaEWz7Wn2tb7c6myWUyBHb7GkTH_oLrelLdnomOlJKlnP1WrIHBXBde975uESnRlbSmI8NVlEHrN80cHRZ6ZuJhhg90t8x8W5AWZQb4elC0ncAAn7YecDgYkZ8xZVetEhBg-KqdPka-yrgGq1_-1MzkGhQFz_Y3bqzlsXaO4Y3RuNLxOU1pOw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJAa8A9U9nwokRm219Af30J4A",
+         "plus_code" : {
+            "compound_code" : "M5C8+JM New York",
+            "global_code" : "87G8M5C8+JM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJAa8A9U9nwokRm219Af30J4A",
+         "types" : [ "casino", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "130 Jericho Turnpike, Floral Park, NY 11001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727825,
+               "lng" : -73.706374
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72927397989272,
+                  "lng" : -73.70506067010727
+               },
+               "southwest" : {
+                  "lat" : 40.72657432010728,
+                  "lng" : -73.70776032989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e6c997f5b207eb9d8bd83930400dfcc3feb88aa6",
+         "name" : "CAZZNY Events",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112780884315868961376/photos\"\u003eCAZZNY Entertainment\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwU1GkmliChcepWyuJx_QUedtxqI_LYby1mI47JlEdgzZiyHuHK7elis-JyX55hGFYR-FO9sFtY5lmDGnZaqJMIBA4OjIcYvhlWss9RRRLACVIUVxP-CzG_yw1OCqs5LHEhCwIMvOA5sA_Y-PssizcTuuGhRFx5C0apZ6-PhwKWZ9QRXU_T_KpQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJe7tPPCMx6IkRWXNsVSqhJXg",
+         "plus_code" : {
+            "compound_code" : "P7HV+4F Floral Park, Hempstead, NY",
+            "global_code" : "87G8P7HV+4F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJe7tPPCMx6IkRWXNsVSqhJXg",
+         "types" : [ "casino", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "N Atlantic Ave, Ocean City, MD 21842, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5602071,
+               "lng" : -73.99309199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.56155692989272,
+                  "lng" : -73.99174217010727
+               },
+               "southwest" : {
+                  "lat" : 40.55885727010727,
+                  "lng" : -73.99444182989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bbbf119c9415fb5dd8f5eec7d149b847d5e387df",
+         "name" : "New Yorc City Guggenheim Museum",
+         "place_id" : "ChIJkZ00vNdFwokR3rqZdENC9Z0",
+         "plus_code" : {
+            "compound_code" : "H264+3Q New York",
+            "global_code" : "87G8H264+3Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJkZ00vNdFwokR3rqZdENC9Z0",
+         "types" : [ "casino", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "102 Woodcleft Ave #2, Freeport, NY 11520, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6371607,
+               "lng" : -73.5827822
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.63851852989271,
+                  "lng" : -73.58135847010729
+               },
+               "southwest" : {
+                  "lat" : 40.63581887010727,
+                  "lng" : -73.58405812989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "479626da760993df94ee8e61dd6ad35c9499e968",
+         "name" : "Ace Deuce Casinos",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101960717962112679269/photos\"\u003eMarius Anastasiu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJRkRB7RKiFIxJyYOYGxCidJKlNoUJR1dTmMhbtT6prnIqtGtlX_16oi0Ra6A7zgHK6tXvt-kbioyr2DTQ7a3iIXNZoaoeuh5hqZ3t_DU4NtnKgrqcsklY6tMmkgnmJ9nEhDYytNzuuj4RhG5iKsRE3wCGhQytoSpgepKtYxwJjmoiddXAgMR6w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJWyAGC8B7wokRVnxMJBl9-qI",
+         "plus_code" : {
+            "compound_code" : "JCP8+VV Freeport, Hempstead, NY",
+            "global_code" : "87G8JCP8+VV"
+         },
+         "rating" : 3,
+         "reference" : "ChIJWyAGC8B7wokRVnxMJBl9-qI",
+         "types" : [ "casino", "point_of_interest", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "2830 Pitkin Ave, Brooklyn, NY 11208, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.675759,
+               "lng" : -73.86769199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67705007989272,
+                  "lng" : -73.86632837010728
+               },
+               "southwest" : {
+                  "lat" : 40.67435042010728,
+                  "lng" : -73.86902802989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cb8570631fbff96017a35f935abfe242dd65797e",
+         "name" : "Carib-Inn Tennis Club & Casino",
+         "place_id" : "ChIJ0U2AQ75dwokRDYkz9MyoArc",
+         "plus_code" : {
+            "compound_code" : "M4GJ+8W New York",
+            "global_code" : "87G8M4GJ+8W"
+         },
+         "rating" : 1,
+         "reference" : "ChIJ0U2AQ75dwokRDYkz9MyoArc",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "110-00 Rockaway Blvd, Ozone Park, NY 11416, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6728147,
+               "lng" : -73.83243279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67428922989271,
+                  "lng" : -73.83161102010727
+               },
+               "southwest" : {
+                  "lat" : 40.67158957010727,
+                  "lng" : -73.83431067989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "577e234f431868cba2acdfe11340b139703e515f",
+         "name" : "Equestris",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114810746770910179285/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArwur0jJsAv_9r6b2_ig_Jb3J_P7MutM2DIoflO43r_KuFuxvGbGQlV9obDLR6nh83jYAprnYB9if-qEPfRoMG4sp8sf3nYnt-a7aJQJwu8JSWhJKod2QJ5gdDuvMH-26EhAUpBfqEmjslsp9mUdtgGaDGhTnCtMR4idDObNOWOmPqvZeiD9vWw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJy3d0-yNnwokRqjtXbx3Jtvs",
+         "plus_code" : {
+            "compound_code" : "M5F9+42 New York",
+            "global_code" : "87G8M5F9+42"
+         },
+         "rating" : 0,
+         "reference" : "ChIJy3d0-yNnwokRqjtXbx3Jtvs",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ]
+      },
+      {
+         "formatted_address" : "137-15 171st St, Jamaica, NY 11434, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.672299,
+               "lng" : -73.769059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67363997989273,
+                  "lng" : -73.76784942010728
+               },
+               "southwest" : {
+                  "lat" : 40.67094032010728,
+                  "lng" : -73.77054907989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7256e438d9623a1f5217a3e0decca4c45b5db684",
+         "name" : "Cozy 1br mins from CASINO JFK & NYC",
+         "place_id" : "ChIJPXAb-rhmwokRA8gRTeZqgWU",
+         "plus_code" : {
+            "compound_code" : "M6CJ+W9 New York",
+            "global_code" : "87G8M6CJ+W9"
+         },
+         "rating" : 1,
+         "reference" : "ChIJPXAb-rhmwokRA8gRTeZqgWU",
+         "types" : [ "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "8 Carriage Way, White Plains, NY 10605, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.996666,
+               "lng" : -73.736071
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.99792237989272,
+                  "lng" : -73.73463322010728
+               },
+               "southwest" : {
+                  "lat" : 40.99522272010727,
+                  "lng" : -73.73733287989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2405cc1ce7ff71a8bc5d7c9b80b84a745617aade",
+         "name" : "1800 Casinos LLC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJBUJLolKRwokRCIrIkXtAmAU",
+         "plus_code" : {
+            "compound_code" : "X7W7+MH White Plains, New York",
+            "global_code" : "87G8X7W7+MH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJBUJLolKRwokRCIrIkXtAmAU",
+         "types" : [ "casino", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "366 N Broadway, Jericho, NY 11753, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7818145,
+               "lng" : -73.5329445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.78309702989272,
+                  "lng" : -73.53154827010728
+               },
+               "southwest" : {
+                  "lat" : 40.78039737010727,
+                  "lng" : -73.53424792989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "45aea2b99e9127e9f64142e18e390f9720a0119d",
+         "name" : "Palm Casino's USA",
+         "place_id" : "ChIJed2A-haBwokRV7ehRoS-3SQ",
+         "plus_code" : {
+            "compound_code" : "QFJ8+PR Jericho, Oyster Bay, NY",
+            "global_code" : "87G8QFJ8+PR"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJed2A-haBwokRV7ehRoS-3SQ",
+         "types" : [ "casino", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

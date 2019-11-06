@@ -1,0 +1,7 @@
+,attraction__id,attraction__name,attraction__formatted__address,attraction__location__lat,attraction__location__lng,attraction__opening__hours,attraction__rating,results__type
+0,3ee4872ae045fe0d1b5d37525e0dd63ba4462540,Bronx Zoo,"2300 Southern Blvd, Bronx, NY 10460, USA",40.8505949,-73.8769982,False,4.5,"zoo, point_of_interest, establishment"
+1,f623597bb5e95d518d99e6aa87e7f5056a5f856a,Central Park Zoo,"E 64th St, New York, NY 10021, USA",40.767778,-73.9718335,False,4.3,"zoo, point_of_interest, establishment"
+2,b5c0c7d98482ce21d68d4bd6948a85fda8f756e1,Queens Zoo,"53-51 111th Street Flushing, Corona, NY 11368, USA",40.74396779999999,-73.84924579999998,False,4.4,"zoo, point_of_interest, establishment"
+3,88c350d1cffb9e7d805886c219b746cb78f926d3,Prospect Park Zoo,"450 Flatbush Ave, Brooklyn, NY 11225, USA",40.6653747,-73.96541379999998,False,4.4,"zoo, point_of_interest, establishment"
+4,8d6c14b576144c082256cf33bcef201794d5fd78,New York Aquarium,"602 Surf Ave, Brooklyn, NY 11224, USA",40.574263200000004,-73.9748754,False,4.0,"aquarium, point_of_interest, establishment"
+5,38d6f8d7b1a5deb823b1c39b4aff57aef37092d8,Staten Island Zoo,"614 Broadway, Staten Island, NY 10310, USA",40.625124,-74.11537,False,4.4,"zoo, point_of_interest, establishment"

@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+<title>VATTS</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css'
+      integrity='sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU' crossorigin='anonymous'>
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<style>
+    body, h1, h2, h3, h4, h5, h6 {
+        font-family: "Raleway", Arial, Helvetica, sans-serif
+    }
+
+    .myLink {
+        display: none
+    }
+
+    .select {
+        height: 40px;
+        width: 300px;
+    }
+
+
+</style>
+<body class="w3-light-grey">
+
+<!-- Navigation Bar -->
+<div class="w3-bar w3-white w3-border-bottom w3-xlarge">
+    <a class="w3-bar-item w3-text-red"><b>VATTS - Virtual Assistant for Travel Time Scheduling - Travel the New York
+        with Us</b></a>
+
+</div>
+
+<!-- Header -->
+<header align="center">
+    <img src="newyork1.jpg" alt="London" width="1500" height="700">
+    <div class="w3-display-middle" style="width:65%">
+        <div class="w3-bar w3-black">
+            <button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'Flight');"><i
+                    class="fas fa-calendar-alt w3-margin-right"></i>Date&Time
+            </button>
+            <button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'Hotel');"><i
+                    class="fas fa-map-marker-alt w3-margin-right"></i>Start&Destination
+            </button>
+            <button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'Car');"><i
+                    class="far fa-grin-beam w3-margin-right"></i>Preference
+            </button>
+        </div>
+
+        <!-- Tabs -->
+        <div id="Flight" class="w3-container w3-white w3-padding-16 myLink" align="left">
+            <h3>Select time of your travel in New York</h3>
+            <div class="w3-row-padding" style="margin:0 -16px;">
+                <div class="w3-third">
+                    <label>Date</label>
+                    <input class="w3-input w3-border" type="date" id="startdate" value="yyyy-mm-dd">
+                </div>
+                <div class="w3-third">
+                    <label>From</label></br>
+                    <select style="height:40px" id="startTime">
+                        <option value="start6am">6:00AM</option>
+                        <option value="start7am">7:00AM</option>
+                        <option value="start8am">8:00AM</option>
+                        <option value="start9am">9:00AM</option>
+                        <option value="start10am">10:00AM</option>
+                        <option value="start11am">11:00AM</option>
+                        <option value="start12am">12:00AM</option>
+                        <option value="start1pm">1:00PM</option>
+                        <option value="start2pm">2:00PM</option>
+                        <option value="start3pm">3:00PM</option>
+                        <option value="start4pm">4:00PM</option>
+                        <option value="start5pm">5:00PM</option>
+                        <option value="start6pm">6:00PM</option>
+                        <option value="start7pm">7:00PM</option>
+                        <option value="start8pm">8:00PM</option>
+                    </select>
+                </div>
+                <div class="w3-third">
+                    <label>To</label></br>
+
+                    <select style="height:40px" id="endTime">
+                        <option value="end6am">6:00AM</option>
+                        <option value="end7am">7:00AM</option>
+                        <option value="end8am">8:00AM</option>
+                        <option value="end9am">9:00AM</option>
+                        <option value="end10am">10:00AM</option>
+                        <option value="end11am">11:00AM</option>
+                        <option value="end12am">12:00AM</option>
+                        <option value="end1pm">1:00PM</option>
+                        <option value="end2pm">2:00PM</option>
+                        <option value="end3pm">3:00PM</option>
+                        <option value="end4pm">4:00PM</option>
+                        <option value="end5pm">5:00PM</option>
+                        <option value="end6pm">6:00PM</option>
+                        <option value="end7pm">7:00PM</option>
+                        <option value="end8pm">8:00PM</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div id="Hotel" class="w3-container w3-white w3-padding-16 myLink" align="left">
+            <h3>Enter the address of your stay</h3>
+            <div class="w3-row-padding" style="margin:0 -16px;">
+                <div class="w3-half">
+                    <label>Start Address</label>
+                    <input class="w3-input w3-border" type="text" placeholder="Departing from" id="dpAdd" >
+                </div>
+                <div class="w3-half">
+                    <label>Final Address</label>
+                    <input class="w3-input w3-border" type="text" placeholder="Arriving at" id="arrAdd">
+                </div>
+            </div>
+        </div>
+
+        <div id="Car" class="w3-container w3-white w3-padding-16 myLink" align="left">
+            <h3>Select the attractions you want to go</h3>
+            <div class="w3-row-padding" style="margin:0 -16px;">
+
+                <div class="w3-third">
+                    <input class="w3-check" id="amusement_park" type="checkbox"><label>Amusement Park&nbsp;<img
+                        src="amusement-park-icon.png" width="25" height="25"></label></br>
+                    <input class="w3-check" id="aquarium" type="checkbox"><label>Aquarium&nbsp;<img
+                        src="aquarium-icon.png" width="25" height="25"></label></br>
+                    <input class="w3-check" id="art_gallery" type="checkbox"><label>Art Gallery&nbsp;<img
+                        src="art-gallery-icon.png" width="25" height="25"></label></div>
+
+                <div class="w3-third">
+                    <input class="w3-check" id="casino" type="checkbox"><label>Casino&nbsp;<img
+                        src="casino-icon.png" width="25" height="25"></label></br>
+                    <input class="w3-check" id="museum" type="checkbox"><label>Museum&nbsp;<img
+                        src="museum-icon.png" width="25" height="25"></label></br>
+                    <input class="w3-check" id="park" type="checkbox"><label>Park&nbsp;<img src="park-icon.png"
+                                                                                            width="25"
+                                                                                            height="25"></label>
+                </div>
+
+                <div class="w3-third">
+                    <input class="w3-check" id="shopping_mall" type="checkbox"><label>Shopping Mall&nbsp;<img
+                        src="shopping-mall-icon.png" width="25" height="25"></label></br>
+                    <input class="w3-check" id="zoo" type="checkbox"><label>Zoo&nbsp;<img src="zoo-icon.png"
+                                                                                          width="25"
+                                                                                          height="25"></label></br>
+                    <input class="w3-check" id="things_to_do" type="checkbox"><label>Things to do in New
+                    Yorks&nbsp;<img src="things-to-do-icon.png" width="25" height="25"></label></div>
+                <div>&nbsp;</br></div>
+                <button class="w3-bar-item w3-button w3-red tablink" onclick="confirmP1()"><i
+                        class="far fa-map w3-margin-right"></i>Go To Travel Plan
+                </button>
+            </div>
+        </div>
+    </div>
+
+
+</header>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px;">
+
+    <!-- Good offers -->
+    <div class="w3-container w3-margin-top">
+        <h3>Introduction of VATTS</h3>
+        <h6> Virtual Assistant for Travel Time Scheduling (VATTS), an itinerary generating and managing system, to
+            assist travelers in making overall travel plans In New York City. VATTS considersuser’s
+            preferences,operation hours and stay time of placesand types of activities and allow users to adjust the
+            results.</h6>
+    </div>
+
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-container w3-center w3-opacity w3-margin-bottom">
+
+    <p>Powered by team 75/285</p>
+</footer>
+
+<script>
+    // Tabs
+    function openLink(evt, linkName) {
+        var i, x, tablinks;
+        x = document.getElementsByClassName("myLink");
+        for (i = 0; i < x.length; i++) {
+            x[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablink");
+        for (i = 0; i < x.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" w3-red", "");
+        }
+        document.getElementById(linkName).style.display = "block";
+        evt.currentTarget.className += " w3-red";
+    }
+
+    // Click on the first tablink on load
+    document.getElementsByClassName("tablink")[0].click();
+
+    var pathRoot = 'http://127.0.0.1:5000/';
+
+    var confirmP1 = function () {
+        var sttTime = document.getElementById("startTime");
+        var startTimeValue = sttTime.options[sttTime.selectedIndex].value;
+        var edTime = document.getElementById("endTime");
+        var endTimeValue = edTime.options[edTime.selectedIndex].value;
+        var dpAddress = document.getElementById("dpAdd").value;
+        var arrAddress = document.getElementById("arrAdd").value;
+
+        var ckeckTFList = [];
+
+        var addToCheckList = function (ckId) {
+            var newCheckBox = document.getElementById(ckId).checked;
+            if (newCheckBox) {
+                ckeckTFList.push(ckId);
+            }
+        };
+
+        addToCheckList("amusement_park");
+        addToCheckList("aquarium");
+        addToCheckList("art_gallery");
+        addToCheckList("casino");
+        addToCheckList("museum");
+        addToCheckList("park");
+        addToCheckList("shopping_mall");
+        addToCheckList("zoo");
+        addToCheckList("things_to_do");
+
+        $(function () {
+            $.ajax({
+                type: 'POST',
+                url: pathRoot + 'Page1InputPost',
+                data: JSON.stringify({
+                    "startTime": startTimeValue,
+                    "endTime": endTimeValue,
+                    "departAddress": dpAddress,
+                    "arriveAddress": arrAddress,
+                    "typeCheckList": ckeckTFList
+                }),
+
+                contentType: 'application/json',
+                success: function (response) {
+
+                    if (response.redirect) {
+                        window.location.href = response.redirect;
+                        console.log(response)
+                    }
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert(errorThrown);
+                }
+            });
+        });
+
+    };
+
+
+</script>
+
+</body>
+</html>
